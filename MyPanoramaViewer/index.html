@@ -12,6 +12,41 @@
 <meta name="author" content="George Harvey Lawrence" />
 <link rel="shortcut icon" href="../static/favicon.ico" />
 <link rel="stylesheet" href="../static/inc/style.css" type="text/css" />
+
+<style>
+    /* Add your custom CSS here */
+    ul.pano_list {
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+        column-count: 4;
+        -webkit-column-gap: 10px;
+        -moz-column-gap: 10px;
+        column-gap: 10px;
+    }
+    li.pano_title_sub {
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+        column-count: 4;
+        -webkit-column-gap: 10px;
+        -moz-column-gap: 10px;
+        column-gap: 10px;
+    }
+    @media (max-width: 768px) {
+        ul.pano_list, ul.pano_title {
+            -webkit-column-count: 2;
+            -moz-column-count: 2;
+            column-count: 2;
+        }
+        li.pano_title_sub {
+            -webkit-column-count: 2;
+            -moz-column-count: 2;
+            column-count: 2;
+        }
+    }
+</style>
+
+
+
 <title>PanoramaViewer</title>
 </head>
 
@@ -21,13 +56,13 @@
 <h5>使用以下设备可以获得更好视觉效果</h5>
 <img src="../static/images/vr_device.png" alt="VR Device">
 <ul class="pano_list">
-<li class="pano_title">--------重庆--------</li>
-<li class="pano_title_sub">------北碚------</li>
+<li class="pano_title">------重庆------</li>
+<li class="pano_title_sub">----北碚----</li>
 <li><a href="map_pano.htm?v=jys1">缙云山</a></li>
 <li><a href="map_pano.htm?v=jys2">缙云山</a></li>
 <li><a href="map_pano.htm?v=jys3">缙云山</a></li>
 <li><a href="map_pano.htm?v=jys4">缙云山</a></li>
-<li class="pano_title_sub">------重庆大学A区------</li>
+<li class="pano_title_sub">----重庆大学A区----</li>
 <li><a href="map_pano.htm?v=cqua1">重庆大学A区</a></li>
 <li><a href="map_pano.htm?v=cqua2">重庆大学A区</a></li>
 <li><a href="map_pano.htm?v=cqua3">重庆大学A区</a></li>
@@ -38,14 +73,14 @@
 <li><a href="map_pano.htm?v=cqua8">重庆大学A区</a></li>
 <li><a href="map_pano.htm?v=cqua9">重庆大学A区文字斋</a></li>
 <li><a href="map_pano.htm?v=cqua10">重庆大学A区理学院</a></li>
-<li class="pano_title_sub">------重庆大学B区------</li>
+<li class="pano_title_sub">----重庆大学B区----</li>
 <li><a href="map_pano.htm?v=cqub1">重庆大学B区</a></li>
 <li><a href="map_pano.htm?v=cqub2">重庆大学B区</a></li>
 <li><a href="map_pano.htm?v=cqub3">重庆大学B区</a></li>
 <li><a href="map_pano.htm?v=cqub4">重庆大学B区</a></li>
 <li><a href="map_pano.htm?v=cqub5">重庆大学B区</a></li>
 <li><a href="map_pano.htm?v=cqub6">重庆大学B区</a></li>
-<li class="pano_title_sub">------重庆大学虎溪校区------</li>
+<li class="pano_title_sub">----重庆大学虎溪校区----</li>
 <li><a href="map_pano.htm?v=cquhx1">重庆大学虎溪校区</a></li>
 <li><a href="map_pano.htm?v=cquhx2">重庆大学虎溪校区</a></li>
 <li><a href="map_pano.htm?v=cquhx3">重庆大学虎溪校区</a></li>
@@ -79,8 +114,38 @@
 <li><a href="map_pano.htm?v=cquhxly1">重庆大学虎溪校区云湖</a></li>
 <li><a href="map_pano.htm?v=cquhxegp1">重庆大学虎溪校区东门广场</a></li>
 <li><a href="map_pano.htm?v=cquhxlib1">重庆大学虎溪校区图书馆</a></li>
-<li class="pano_title">--------安徽--------</li>
-<li class="pano_title_sub">------合肥------</li>
+<li><a href="map_pano.htm?v=cquhxb4">重庆大学虎溪校区竹园四栋</a></li>
+<li><a href="map_pano.htm?v=cquhxest">重庆大学虎溪校区二食堂</a></li>
+<li><a href="map_pano.htm?v=cquhxyst">重庆大学虎溪校区一食堂</a></li>
+<li><a href="map_pano.htm?v=cquhxng">重庆大学虎溪校区北门</a></li>
+<li><a href="map_pano.htm?v=cquhxplayground">重庆大学虎溪校区田径场</a></li>
+<li><a href="map_pano.htm?v=cquhxgeneralbuilding">重庆大学虎溪校区综合楼</a></li>
+<li><a href="map_pano.htm?v=cquhxplumsoccer">重庆大学虎溪校区梅园足球场</a></li>
+<li><a href="map_pano.htm?v=cquhxplantgarden">重庆大学虎溪校区植物园</a></li>
+<li><a href="map_pano.htm?v=cquhxlib2">重庆大学虎溪校区图书馆2</a></li>
+<li><a href="map_pano.htm?v=cquhxegp2">重庆大学虎溪校区东门广场2</a></li>
+<li><a href="map_pano.htm?v=cquhxeg2">重庆大学虎溪校区东门</a></li>
+<li><a href="map_pano.htm?v=cquhx30">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx31">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx32">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx33">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx34">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx35">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx36">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx37">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx38">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx39">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx40">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx41">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx42">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx43">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx44">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx45">重庆大学虎溪校区</a></li>
+<li><a href="map_pano.htm?v=cquhx46">重庆大学虎溪校区</a></li>
+</ul>
+<ul class="pano_list">
+<li class="pano_title">------安徽------</li>
+<li class="pano_title_sub">----合肥----</li>
 <li><a href="map_pano.htm?v=hfut1">合肥工业大学</a></li>
 <li><a href="map_pano.htm?v=hfut2">合肥工业大学</a></li>
 <li><a href="map_pano.htm?v=hfut3">合肥工业大学</a></li>
@@ -92,7 +157,7 @@
 <li><a href="map_pano.htm?v=luogang1">骆岗园博园</a></li>
 <li><a href="map_pano.htm?v=luogang2">骆岗园博园</a></li>
 <li><a href="map_pano.htm?v=dashushan1">大蜀山</a></li>
-<li class="pano_title_sub">------阜阳------</li>
+<li class="pano_title_sub">----阜阳----</li>
 <li><a href="map_pano.htm?v=jiangxinzhou1">江心洲滨河公园</a></li>
 <li><a href="map_pano.htm?v=jiangxinzhou2">江心洲滨河公园</a></li>
 <li><a href="map_pano.htm?v=jiangxinzhou3">江心洲滨河公园</a></li>
@@ -189,10 +254,14 @@
 <li><a href="map_pano.htm?v=sblp57">十八里铺</a></li>
 <li><a href="map_pano.htm?v=sblpzx1">十八里铺中学</a></li>
 <li><a href="map_pano.htm?v=sblpzx2">十八里铺中学</a></li>
-<li class="pano_title">------其他------</li>
+</ul>
+<ul class="pano_list">
+<li class="pano_title">----其他----</li>
 <li><a href="map_pano.htm?v=sample1">sample1<em class="en">NEW</em></a></li>
 <li><a href="map_pano.htm?v=sample2">sample2</a></li>
-<li class="pano_title">------视频------</li>
+</ul>
+<ul class="pano_list">
+<li class="pano_title">----视频----</li>
 <li><a href="map_video.htm?v=sample1">Aurora<em class="en">NEW</em></a></li>
 <li><a href="map_video.htm?v=sample2">Tokyo at night, Japan. Aerial 360 video in 12K(4K, mkv)<em class="en">NEW</em></a></li>
 <li><a href="map_video.htm?v=sample3">Tokyo at night, Japan. Aerial 360 video in 12K(8K, mp4)<em class="en">NEW</em></a></li>
