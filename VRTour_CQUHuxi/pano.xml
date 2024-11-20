@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node22" appversion="6.1.9" apprev="17983">
+  <panorama id="node22">
+    <input levelbias="0.400" levelingpitch="0" height="2386" levelbiashidpi="1.000" levelingroll="0" width="2386" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2386" width="2386" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-40.2108" projection="4" pan="61.4167"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="436.34" source="" comment="" nodeid="node22" title="中心" tags="PANORAMA" info="" author="" longitude="106.297164" datetime="2024-05-21 15:37" description="" customnodeid="" latitude="29.598907" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="532.586" tilt="0" title="荷塘上空" id="Point01" description="" skinid="ht_node" pan="130.3" url="{node12}" target="$fwd"/>
+      <hotspot distance="445.051" tilt="0" title="缙湖上空" id="Point02" description="" skinid="ht_node" pan="138.334" url="{node15}" target="$fwd"/>
+      <hotspot distance="145.206" tilt="-38.76" title="综合楼" id="Point03" description="" skinid="ht_node" pan="140.242" url="{node10}" target="$fwd"/>
+      <hotspot distance="211.133" tilt="-28.07" title="植物园" id="Point04" description="" skinid="ht_node" pan="169.279" url="{node2}" target="$fwd"/>
+      <hotspot distance="535.731" tilt="-11.85" title="第二食堂" id="Point05" description="" skinid="ht_node" pan="88.6264" url="{node5}" target="$fwd"/>
+      <hotspot distance="238.753" tilt="0" title="第一食堂上空" id="Point06" description="" skinid="ht_node" pan="75.7089" url="{node24}" target="$fwd"/>
+      <hotspot distance="392.681" tilt="0" title="快递站上空" id="Point07" description="" skinid="ht_node" pan="60.7593" url="{node23}" target="$fwd"/>
+      <hotspot distance="274.961" tilt="-23.69" title="北门" id="Point08" description="" skinid="ht_node" pan="-6.07652" url="{node8}" target="$fwd"/>
+      <hotspot distance="115.935" tilt="0" title="梅园篮球场上空" id="Point09" description="" skinid="ht_node" pan="-49.1471" url="{node19}" target="$fwd"/>
+      <hotspot distance="619.46" tilt="0" title="校外俯瞰" id="Point10" description="" skinid="ht_node" pan="-57.172" url="{node25}" target="$fwd"/>
+      <hotspot distance="628.855" tilt="-10.6" title="东门" id="Point11" description="" skinid="ht_node" pan="-116.335" url="{node4}" target="$fwd"/>
+      <hotspot distance="386.263" tilt="0" title="第一实验楼上空（低）" id="Point12" description="" skinid="ht_node" pan="-121.673" url="{node13}" target="$fwd"/>
+      <hotspot distance="115.956" tilt="0" title="第一教学楼上空（低）" id="Point13" description="" skinid="ht_node" pan="-132.09" url="{node27}" target="$fwd"/>
+      <hotspot distance="235.374" tilt="0" title="植物园上空" id="Point14" description="" skinid="ht_node" pan="-161.213" url="{node11}" target="$fwd"/>
+      <hotspot distance="301.82" tilt="-23.85" title="图书馆" id="Point15" description="" skinid="ht_node" pan="-164.64" url="{node1}" target="$fwd"/>
+      <hotspot distance="127.586" tilt="0" title="综合楼上空秋季" id="Point18" description="" skinid="ht_node" pan="155.368" url="{node30}" target="$fwd"/>
+      <hotspot distance="376.58" tilt="0" title="缙湖上空" id="Point17" description="" skinid="ht_node" pan="168.613" url="{node14}" target="$fwd"/>
+      <hotspot distance="462.558" tilt="-13.75" title="竹园四栋" id="Point16" description="" skinid="ht_node" pan="-299.71" url="{node6}" target=""/>
+      <hotspot distance="267.825" tilt="-24.44" title="风雨操场" id="Point19" description="" skinid="ht_node" pan="-73.05" url="{node9}" target="$fwd"/>
+      <hotspot distance="388.504" tilt="0.28" title="" id="图书馆上空" description="" skinid="ht_node" pan="-170.6" url="{node31}" target=""/>
+      <hotspot distance="564.868" tilt="0" title="东门上空" id="Point20" description="" skinid="ht_node" pan="-113.786" url="{node33}" target="$fwd"/>
+      <hotspot distance="383.302" tilt="0.49" title="" id="Point21" description="" skinid="ht_node" pan="-126.55" url="{node36}" target=""/>
+      <hotspot distance="394.493" tilt="-0.01" title="" id="Point22" description="" skinid="ht_node" pan="-176.67" url="{node35}" target=""/>
+      <hotspot distance="394.493" tilt="-9.5" title="" id="Point23" description="" skinid="ht_node" pan="-170.98" url="{node34}" target=""/>
+      <hotspot distance="385.798" tilt="-5.62" title="" id="Point24" description="" skinid="ht_node" pan="-164.12" url="{node32}" target=""/>
+      <hotspot distance="285.111" tilt="2.85" title="" id="Point25" description="" skinid="ht_node" pan="-197.32" url="{node37}" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelingpitch="0" height="2048" levelbiashidpi="1.000" levelingroll="0" width="2048" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-205">
+      <start fov="70" tilt="7.63212" projection="4" pan="-2.73891"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node2" title="植物园" tags="PANORAMA" info="" author="" longitude="106.29687667" datetime="2024-05-21 13:05" description="" customnodeid="" latitude="29.59702474" copyright="" heading="-205"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="121.409" tilt="4.43" title="图书馆" id="Point01" description="" skinid="ht_node" pan="-350.266" url="{node1}" target="$fwd"/>
+      <hotspot distance="166.515" tilt="28.52" title="缙湖上空" id="Point02" description="" skinid="ht_node" pan="-39.6014" url="{node14}" target="$fwd"/>
+      <hotspot distance="104.464" tilt="66.97" title="植物园上空" id="Point03" description="" skinid="ht_node" pan="-330.065" url="{node11}" target="$fwd"/>
+      <hotspot distance="356.573" tilt="51.79" title="第一实验楼上空（低）" id="Point04" description="" skinid="ht_node" pan="-309.088" url="{node13}" target="$fwd"/>
+      <hotspot distance="185.178" tilt="45.17" title="第一教学楼上空（高）" id="Point05" description="" skinid="ht_node" pan="-272.004" url="{node18}" target="$fwd"/>
+      <hotspot distance="211.133" tilt="81.62" title="中心" id="Point08" description="" skinid="ht_node" pan="-225.071" url="{node22}" target="$fwd"/>
+      <hotspot distance="98.2366" tilt="11.5" title="综合楼" id="Point09" description="" skinid="ht_node" pan="-179.373" url="{node10}" target="$fwd"/>
+      <hotspot distance="336.743" tilt="44.83" title="第一食堂上空" id="Point10" description="" skinid="ht_node" pan="-172.192" url="{node24}" target="$fwd"/>
+      <hotspot distance="387.836" tilt="13" title="第一食堂" id="Point11" description="" skinid="ht_node" pan="-160.679" url="{node7}" target="$fwd"/>
+      <hotspot distance="529.382" tilt="14.25" title="第二食堂" id="Point12" description="" skinid="ht_node" pan="-134.65" url="{node5}" target="$fwd"/>
+      <hotspot distance="401.823" tilt="30.95" title="荷塘上空" id="Point13" description="" skinid="ht_node" pan="-106.112" url="{node12}" target="$fwd"/>
+      <hotspot distance="295.024" tilt="34.52" title="缙湖上空" id="Point14" description="" skinid="ht_node" pan="-90.9633" url="{node15}" target="$fwd"/>
+      <hotspot distance="563.414" tilt="12.69" title="竹园四栋" id="Point15" description="" skinid="ht_node" pan="-166.845" url="{node6}" target="$fwd"/>
+      <hotspot distance="509.933" tilt="46.26" title="快递站上空" id="Point16" description="" skinid="ht_node" pan="-158.599" url="{node23}" target="$fwd"/>
+      <hotspot distance="96.7154" tilt="46.18" title="综合楼上空秋季" id="Point17" description="" skinid="ht_node" pan="-194.096" url="{node30}" target="$fwd"/>
+      <hotspot distance="410.044" tilt="44.16" title="风雨操场上空" id="Point19" description="" skinid="ht_node" pan="-239.212" url="{node16}" target="$fwd"/>
+      <hotspot distance="773.177" tilt="68.92" title="校外俯瞰" id="Point24" description="" skinid="ht_node" pan="-295.367" url="{node25}" target="$fwd"/>
+      <hotspot distance="595.302" tilt="50.39" title="体育馆上空" id="Point25" description="" skinid="ht_node" pan="-284.79" url="{node17}" target="$fwd"/>
+      <hotspot distance="611.539" tilt="8.47" title="东门" id="Point26" description="" skinid="ht_node" pan="-321.539" url="{node4}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" levelingpitch="0" height="2048" levelbiashidpi="1.000" levelingroll="0" width="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-52">
+      <start fov="70" tilt="-2.99155" projection="4" pan="45.9902"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node4" title="东门" tags="PANORAMA" info="" author="" longitude="106.30319595" datetime="2024-05-21 11:44" description="" customnodeid="" latitude="29.59679151" copyright="" heading="-52"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="529.994" tilt="0" title="图书馆" id="Point01" description="" skinid="ht_node" pan="44.6299" url="{node1}" target="$fwd"/>
+      <hotspot distance="209.551" tilt="-0.33" title="东门广场" id="Point02" description="" skinid="ht_node" pan="35.9021" url="{node3}" target="$fwd"/>
+      <hotspot distance="256.53" tilt="26.35" title="第一实验楼上空（低）" id="Point03" description="" skinid="ht_node" pan="29.9207" url="{node13}" target="$fwd"/>
+      <hotspot distance="628.855" tilt="34.84" title="中心" id="Point04" description="" skinid="ht_node" pan="14.0221" url="{node22}" target="$fwd"/>
+      <hotspot distance="473.516" tilt="24.98" title="第一教学楼上空（高）" id="Point05" description="" skinid="ht_node" pan="22.0344" url="{node18}" target="$fwd"/>
+      <hotspot distance="585.055" tilt="20.13" title="梅园篮球场上空" id="Point06" description="" skinid="ht_node" pan="356.329" url="{node19}" target="$fwd"/>
+      <hotspot distance="769.374" tilt="0" title="北门" id="Point07" description="" skinid="ht_node" pan="-3.53083" url="{node8}" target="$fwd"/>
+      <hotspot distance="459.918" tilt="20.84" title="风雨操场上空（高）" id="Point08" description="" skinid="ht_node" pan="-15.7213" url="{node21}" target="$fwd"/>
+      <hotspot distance="574.466" tilt="36.03" title="校外俯瞰" id="Point10" description="" skinid="ht_node" pan="-55.6495" url="{node25}" target="$fwd"/>
+      <hotspot distance="668.587" tilt="-0.21" title="综合楼" id="Point11" description="" skinid="ht_node" pan="28.6971" url="{node10}" target="$fwd"/>
+      <hotspot distance="866.057" tilt="22.69" title="第一食堂上空" id="Point13" description="" skinid="ht_node" pan="6.91175" url="{node24}" target="$fwd"/>
+      <hotspot distance="934.975" tilt="0" title="第一食堂" id="Point14" description="" skinid="ht_node" pan="19.2964" url="{node7}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelingpitch="0" height="2048" levelbiashidpi="1.000" levelingroll="0" width="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start fov="70" tilt="1.86285" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node3" title="东门广场" tags="PANORAMA" info="" author="" longitude="106.30102873" datetime="2024-05-21 11:57" description="" customnodeid="" latitude="29.59681017" copyright="" heading="-90"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="323.163" tilt="4.47" title="图书馆" id="Point02" description="" skinid="ht_node" pan="12.4011" url="{node1}" target="$fwd"/>
+      <hotspot distance="92.6258" tilt="31.66" title="第一实验楼上空（高）" id="Point03" description="" skinid="ht_node" pan="-28.1843" url="{node26}" target="$fwd"/>
+      <hotspot distance="462.807" tilt="5.14" title="综合楼" id="Point04" description="" skinid="ht_node" pan="-14.5292" url="{node10}" target="$fwd"/>
+      <hotspot distance="276.538" tilt="29.97" title="第一教学楼上空（高）" id="Point05" description="" skinid="ht_node" pan="-22.583" url="{node18}" target="$fwd"/>
+      <hotspot distance="626.385" tilt="7.02" title="北门" id="Point08" description="" skinid="ht_node" pan="-53.7086" url="{node8}" target="$fwd"/>
+      <hotspot distance="343.527" tilt="5.18" title="风雨操场" id="Point09" description="" skinid="ht_node" pan="-69.8438" url="{node9}" target="$fwd"/>
+      <hotspot distance="209.551" tilt="0" title="东门" id="Point11" description="" skinid="ht_node" pan="-180.567" url="{node4}" target="$fwd"/>
+      <hotspot distance="298.044" tilt="27.23" title="植物园上空" id="Point12" description="" skinid="ht_node" pan="-9.1255" url="{node11}" target="$fwd"/>
+      <hotspot distance="402.156" tilt="4.73" title="植物园" id="Point13" description="" skinid="ht_node" pan="-6.01226" url="{node2}" target="$fwd"/>
+      <hotspot distance="924.821" tilt="6.59" title="第二食堂" id="Point15" description="" skinid="ht_node" pan="-20.4659" url="{node5}" target="$fwd"/>
+      <hotspot distance="440.439" tilt="44.81" title="中心" id="Point17" description="" skinid="ht_node" pan="-30.7641" url="{node22}" target="$fwd"/>
+      <hotspot distance="346.967" tilt="32.7" title="风雨操场上空" id="Point18" description="" skinid="ht_node" pan="-74.8662" url="{node16}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbias="0.400" levelingpitch="0" height="3968" levelbiashidpi="1.000" levelingroll="0" width="3968" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="3968" width="3968" predecode="0" preload="0"/>
+      <level height="1984" width="1984" predecode="0" preload="0"/>
+      <level height="992" width="992" predecode="0" preload="0"/>
+      <level height="496" width="496" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-193">
+      <start fov="70" tilt="8.00093" projection="4" pan="-1.14048"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node1" title="图书馆" tags="PANORAMA" info="" author="" longitude="106.29775106" datetime="2024-05-15 17:00" description="" customnodeid="" latitude="29.59624110" copyright="" heading="-193"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="149.936" tilt="39.84" title="缙湖上空" id="Point01" description="" skinid="ht_node" pan="-69.8319" url="{node14}" target="$fwd"/>
+      <hotspot distance="638.655" tilt="0" title="第二食堂" id="Point03" description="" skinid="ht_node" pan="-125.516" url="{node5}" target="$fwd"/>
+      <hotspot distance="121.409" tilt="0" title="植物园" id="Point04" description="" skinid="ht_node" pan="-148.866" url="{node2}" target="$fwd"/>
+      <hotspot distance="217.854" tilt="0" title="综合楼" id="Point05" description="" skinid="ht_node" pan="-155.449" url="{node10}" target="$fwd"/>
+      <hotspot distance="301.82" tilt="34.73" title="中心" id="Point06" description="" skinid="ht_node" pan="-181.691" url="{node22}" target="$fwd"/>
+      <hotspot distance="573.444" tilt="0" title="北门" id="Point07" description="" skinid="ht_node" pan="-188.045" url="{node8}" target="$fwd"/>
+      <hotspot distance="220.662" tilt="37.6" title="第一教学楼上空（低）" id="Point08" description="" skinid="ht_node" pan="-202.748" url="{node27}" target="$fwd"/>
+      <hotspot distance="76.0232" tilt="38.25" title="植物园上空" id="Point09" description="" skinid="ht_node" pan="-211.795" url="{node11}" target="$fwd"/>
+      <hotspot distance="201.282" tilt="42.1" title="第一教学楼上空（高）" id="Point10" description="" skinid="ht_node" pan="-206.947" url="{node18}" target="$fwd"/>
+      <hotspot distance="431.908" tilt="0" title="风雨操场" id="Point11" description="" skinid="ht_node" pan="-219.995" url="{node9}" target="$fwd"/>
+      <hotspot distance="233.67" tilt="34.27" title="第一实验楼上空（高）" id="Point13" description="" skinid="ht_node" pan="-271.285" url="{node26}" target="$fwd"/>
+      <hotspot distance="529.994" tilt="0" title="东门" id="Point14" description="" skinid="ht_node" pan="-276.367" url="{node4}" target="$fwd"/>
+      <hotspot distance="465.431" tilt="39.14" title="荷塘上空" id="Point15" description="" skinid="ht_node" pan="-97.2359" url="{node12}" target="$fwd"/>
+      <hotspot distance="211.309" tilt="40.11" title="综合楼上空秋季" id="Point16" description="" skinid="ht_node" pan="-162.49" url="{node30}" target="$fwd"/>
+      <hotspot distance="373.552" tilt="29.87" title="梅园篮球场上空" id="Point17" description="" skinid="ht_node" pan="-199.62" url="{node19}" target="$fwd"/>
+      <hotspot distance="255.86" tilt="25.16" title="" id="Point02" description="" skinid="ht_node" pan="-257.81" url="{node36}" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbias="0.400" levelingpitch="0" height="2048" levelbiashidpi="1.000" levelingroll="0" width="2048" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="3.9716" projection="4" pan="5.39178"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node7" title="第一食堂" tags="PANORAMA" info="" author="" longitude="106.29403621" datetime="2024-05-21 13:56" description="" customnodeid="" latitude="29.59948755" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="175.819" tilt="0" title="竹园四栋" id="Point01" description="" skinid="ht_node" pan="41.4718" url="{node6}" target="$fwd"/>
+      <hotspot distance="133.468" tilt="35.52" title="快递站上空" id="Point02" description="" skinid="ht_node" pan="14.3776" url="{node23}" target="$fwd"/>
+      <hotspot distance="374.304" tilt="0" title="北门" id="Point03" description="" skinid="ht_node" pan="-55.8137" url="{node8}" target="$fwd"/>
+      <hotspot distance="309.221" tilt="42.52" title="中心" id="Point07" description="" skinid="ht_node" pan="-98.4691" url="{node22}" target="$fwd"/>
+      <hotspot distance="654.039" tilt="36.34" title="第一实验楼上空（高）" id="Point09" description="" skinid="ht_node" pan="-117.319" url="{node26}" target="$fwd"/>
+      <hotspot distance="294.45" tilt="0" title="综合楼" id="Point10" description="" skinid="ht_node" pan="-129.747" url="{node10}" target="$fwd"/>
+      <hotspot distance="387.836" tilt="0" title="植物园" id="Point11" description="" skinid="ht_node" pan="-134.918" url="{node2}" target="$fwd"/>
+      <hotspot distance="490.027" tilt="33.28" title="缙湖上空" id="Point12" description="" skinid="ht_node" pan="-182.753" url="{node14}" target="$fwd"/>
+      <hotspot distance="421.992" tilt="30.02" title="荷塘上空" id="Point14" description="" skinid="ht_node" pan="148.105" url="{node12}" target="$fwd"/>
+      <hotspot distance="258.51" tilt="0" title="第二食堂" id="Point15" description="" skinid="ht_node" pan="116.77" url="{node5}" target="$fwd"/>
+      <hotspot distance="71.2644" tilt="35.5" title="第一食堂上空" id="Point06" description="" skinid="ht_node" pan="-88.3837" url="{node24}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-17.0172" projection="4" pan="-117.883"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="433.01" source="" comment="" nodeid="node24" title="第一食堂上空" tags="PANORAMA" info="" author="" longitude="106.294771" datetime="2024-05-21 15:32" description="" customnodeid="" latitude="29.599437" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="173.322" tilt="0" title="快递站上空" id="Point01" description="" skinid="ht_node" pan="39.9452" url="{node23}" target="$fwd"/>
+      <hotspot distance="321.796" tilt="-18.14" title="北门" id="Point02" description="" skinid="ht_node" pan="-51.6333" url="{node8}" target="$fwd"/>
+      <hotspot distance="801.259" tilt="0" title="校外俯瞰" id="Point03" description="" skinid="ht_node" pan="-69.7827" url="{node25}" target="$fwd"/>
+      <hotspot distance="319.504" tilt="0" title="梅园篮球场上空" id="Point04" description="" skinid="ht_node" pan="-86.9668" url="{node19}" target="$fwd"/>
+      <hotspot distance="238.753" tilt="0" title="中心" id="Point05" description="" skinid="ht_node" pan="-104.29" url="{node22}" target="$fwd"/>
+      <hotspot distance="345.584" tilt="0" title="第一教学楼上空（低）" id="Point06" description="" skinid="ht_node" pan="-113.293" url="{node27}" target="$fwd"/>
+      <hotspot distance="588.744" tilt="0" title="第一实验楼上空（高）" id="Point07" description="" skinid="ht_node" pan="-119.496" url="{node26}" target="$fwd"/>
+      <hotspot distance="416.828" tilt="4.26" title="植物园上空" id="Point08" description="" skinid="ht_node" pan="-145.6" url="{node11}" target="$fwd"/>
+      <hotspot distance="239.783" tilt="-25.89" title="综合楼" id="Point09" description="" skinid="ht_node" pan="-142.667" url="{node10}" target="$fwd"/>
+      <hotspot distance="455.987" tilt="0" title="缙湖上空" id="Point10" description="" skinid="ht_node" pan="-159.858" url="{node14}" target="$fwd"/>
+      <hotspot distance="396.683" tilt="0" title="缙湖上空" id="Point11" description="" skinid="ht_node" pan="170.644" url="{node15}" target="$fwd"/>
+      <hotspot distance="439.661" tilt="0" title="荷塘上空" id="Point12" description="" skinid="ht_node" pan="156.572" url="{node12}" target="$fwd"/>
+      <hotspot distance="321.545" tilt="-20.48" title="第二食堂" id="Point13" description="" skinid="ht_node" pan="101.929" url="{node5}" target="$fwd"/>
+      <hotspot distance="232.412" tilt="-24.32" title="竹园四栋" id="Point15" description="" skinid="ht_node" pan="47.9508" url="{node6}" target="$fwd"/>
+      <hotspot distance="71.2644" tilt="-62.97" title="第一食堂" id="Point16" description="" skinid="ht_node" pan="-289.19" url="{node7}" target=""/>
+      <hotspot distance="485.072" tilt="-13.57" title="风雨操场" id="Point14" description="" skinid="ht_node" pan="-90.53" url="{node9}" target=""/>
+      <hotspot distance="336.743" tilt="-17.51" title="植物园" id="Point17" description="" skinid="ht_node" pan="-147.211" url="{node2}" target="$fwd"/>
+      <hotspot distance="457.498" tilt="-12.74" title="图书馆" id="Point18" description="" skinid="ht_node" pan="-145.744" url="{node1}" target="$fwd"/>
+      <hotspot distance="249.69" tilt="0" title="综合楼上空秋季" id="Point19" description="" skinid="ht_node" pan="-134.467" url="{node30}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" levelingpitch="0" height="2048" levelbiashidpi="1.000" levelingroll="0" width="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-168">
+      <start fov="67.8" tilt="13.893" projection="4" pan="-79.8061"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node5" title="第二食堂" tags="PANORAMA" info="" author="" longitude="106.29164904" datetime="2024-05-21 14:09" description="" customnodeid="" latitude="29.59844039" copyright="" heading="-168"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="273.259" tilt="0" title="竹园四栋" id="Point01" description="" skinid="ht_node" pan="-192.741" url="{node6}" target="$fwd"/>
+      <hotspot distance="309.356" tilt="49.31" title="快递站上空" id="Point02" description="" skinid="ht_node" pan="-206.643" url="{node23}" target="$fwd"/>
+      <hotspot distance="258.51" tilt="0" title="第一食堂" id="Point03" description="" skinid="ht_node" pan="-231.229" url="{node7}" target="$fwd"/>
+      <hotspot distance="321.545" tilt="25.37" title="第一食堂上空" id="Point04" description="" skinid="ht_node" pan="-235.339" url="{node24}" target="$fwd"/>
+      <hotspot distance="535.731" tilt="50.69" title="中心" id="Point06" description="" skinid="ht_node" pan="-259.281" url="{node22}" target="$fwd"/>
+      <hotspot distance="619.803" tilt="33.04" title="第一教学楼上空（低）" id="Point07" description="" skinid="ht_node" pan="-265.038" url="{node27}" target="$fwd"/>
+      <hotspot distance="462.808" tilt="0" title="综合楼" id="Point08" description="" skinid="ht_node" pan="-266.928" url="{node10}" target="$fwd"/>
+      <hotspot distance="529.382" tilt="0" title="植物园" id="Point09" description="" skinid="ht_node" pan="-275.297" url="{node2}" target="$fwd"/>
+      <hotspot distance="638.655" tilt="0" title="图书馆" id="Point10" description="" skinid="ht_node" pan="-280.513" url="{node1}" target="$fwd"/>
+      <hotspot distance="557.879" tilt="33.73" title="缙湖上空" id="Point11" description="" skinid="ht_node" pan="-298.371" url="{node14}" target="$fwd"/>
+      <hotspot distance="1122.8" tilt="44.23" title="校外俯瞰" id="Point14" description="" skinid="ht_node" pan="-240.188" url="{node25}" target="$fwd"/>
+      <hotspot distance="796.402" tilt="37.2" title="风雨操场上空傍晚（高）" id="Point15" description="" skinid="ht_node" pan="-251.3" url="{node29}" target="$fwd"/>
+      <hotspot distance="318.987" tilt="29.7" title="荷塘上空" id="Point12" description="" skinid="ht_node" pan="-323.22" url="{node12}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" levelingpitch="0" height="2048" levelbiashidpi="1.000" levelingroll="0" width="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="6">
+      <start fov="79.5" tilt="14.7016" projection="4" pan="14.9653"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node6" title="竹园四栋" tags="PANORAMA" info="" author="" longitude="106.29283190" datetime="2024-05-21 14:03" description="" customnodeid="" latitude="29.60067229" copyright="" heading="6"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="273.259" tilt="0" title="第二食堂" id="Point01" description="" skinid="ht_node" pan="161.259" url="{node5}" target="$fwd"/>
+      <hotspot distance="662.135" tilt="51.85" title="缙湖上空" id="Point03" description="" skinid="ht_node" pan="-144.888" url="{node14}" target="$fwd"/>
+      <hotspot distance="175.819" tilt="0" title="第一食堂" id="Point04" description="" skinid="ht_node" pan="-132.528" url="{node7}" target="$fwd"/>
+      <hotspot distance="468.977" tilt="0" title="综合楼" id="Point06" description="" skinid="ht_node" pan="-127.027" url="{node10}" target="$fwd"/>
+      <hotspot distance="462.558" tilt="54.46" title="中心" id="Point08" description="" skinid="ht_node" pan="-95.1691" url="{node22}" target="$fwd"/>
+      <hotspot distance="433.252" tilt="0" title="北门" id="Point10" description="" skinid="ht_node" pan="-73.5499" url="{node8}" target="$fwd"/>
+      <hotspot distance="76.3273" tilt="28.46" title="快递站上空" id="Point11" description="" skinid="ht_node" pan="-48.1847" url="{node23}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbias="0.400" levelingpitch="0" height="2048" levelbiashidpi="1.000" levelingroll="0" width="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-182">
+      <start fov="70" tilt="1.41645" projection="4" pan="-0.302731"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node8" title="北门" tags="PANORAMA" info="" author="" longitude="106.29723877" datetime="2024-05-21 13:45" description="" customnodeid="" latitude="29.60137893" copyright="" heading="-182"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="575.183" tilt="27.05" title="第一实验楼上空（高）" id="Point02" description="" skinid="ht_node" pan="-334.05" url="{node26}" target="$fwd"/>
+      <hotspot distance="769.374" tilt="0" title="东门" id="Point04" description="" skinid="ht_node" pan="-313.528" url="{node4}" target="$fwd"/>
+      <hotspot distance="573.444" tilt="0" title="图书馆" id="Point06" description="" skinid="ht_node" pan="-357.045" url="{node1}" target="$fwd"/>
+      <hotspot distance="274.961" tilt="38.07" title="中心" id="Point07" description="" skinid="ht_node" pan="-2.88656" url="{node22}" target="$fwd"/>
+      <hotspot distance="407.185" tilt="0" title="综合楼" id="Point08" description="" skinid="ht_node" pan="-13.7968" url="{node10}" target="$fwd"/>
+      <hotspot distance="678.764" tilt="25.69" title="缙湖上空" id="Point09" description="" skinid="ht_node" pan="-21.4217" url="{node15}" target="$fwd"/>
+      <hotspot distance="744.643" tilt="21.23" title="荷塘上空" id="Point10" description="" skinid="ht_node" pan="-31.7333" url="{node12}" target="$fwd"/>
+      <hotspot distance="321.796" tilt="21.05" title="第一食堂上空" id="Point11" description="" skinid="ht_node" pan="-46.0045" url="{node24}" target="$fwd"/>
+      <hotspot distance="374.304" tilt="0" title="第一食堂" id="Point12" description="" skinid="ht_node" pan="-57.8153" url="{node7}" target="$fwd"/>
+      <hotspot distance="359.595" tilt="26.72" title="快递站上空" id="Point13" description="" skinid="ht_node" pan="-68.5368" url="{node23}" target="$fwd"/>
+      <hotspot distance="516.911" tilt="41.19" title="校外俯瞰" id="Point14" description="" skinid="ht_node" pan="-261.768" url="{node25}" target="$fwd"/>
+      <hotspot distance="303.573" tilt="21.62" title="风雨操场上空（低）" id="Point16" description="" skinid="ht_node" pan="-308.716" url="{node20}" target="$fwd"/>
+      <hotspot distance="626.385" tilt="0" title="东门广场" id="Point17" description="" skinid="ht_node" pan="-326.197" url="{node3}" target="$fwd"/>
+      <hotspot distance="485.428" tilt="0" title="植物园" id="Point05" description="" skinid="ht_node" pan="-6.13589" url="{node2}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbias="0.400" levelingpitch="0" height="2048" levelbiashidpi="1.000" levelingroll="0" width="2048" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start fov="70" tilt="1.71575" projection="4" pan="0.148764"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node9" title="风雨操场" tags="PANORAMA" info="" author="" longitude="106.29977882" datetime="2024-05-21 13:27" description="" customnodeid="" latitude="29.59970211" copyright="" heading="-90"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="235.397" tilt="25.27" title="第一教学楼上空（低）" id="Point01" description="" skinid="ht_node" pan="66.3819" url="{node27}" target="$fwd"/>
+      <hotspot distance="391.315" tilt="0" title="综合楼" id="Point02" description="" skinid="ht_node" pan="32.8257" url="{node10}" target="$fwd"/>
+      <hotspot distance="267.825" tilt="38.74" title="中心" id="Point03" description="" skinid="ht_node" pan="19.5449" url="{node22}" target="$fwd"/>
+      <hotspot distance="798.445" tilt="0" title="第二食堂" id="Point04" description="" skinid="ht_node" pan="10.1181" url="{node5}" target="$fwd"/>
+      <hotspot distance="165.597" tilt="23.58" title="梅园篮球场上空" id="Point05" description="" skinid="ht_node" pan="340.145" url="{node19}" target="$fwd"/>
+      <hotspot distance="604.366" tilt="23.08" title="快递站上空" id="Point06" description="" skinid="ht_node" pan="-31.7025" url="{node23}" target="$fwd"/>
+      <hotspot distance="308.341" tilt="0" title="北门" id="Point07" description="" skinid="ht_node" pan="-37.2079" url="{node8}" target="$fwd"/>
+      <hotspot distance="3.50017" tilt="50.21" title="风雨操场上空" id="Point08" description="" skinid="ht_node" pan="-49.9074" url="{node16}" target="$fwd"/>
+      <hotspot distance="203.542" tilt="27.81" title="体育馆上空" id="Point11" description="" skinid="ht_node" pan="-165.493" url="{node17}" target="$fwd"/>
+      <hotspot distance="462.493" tilt="4.65" title="东门" id="Point12" description="" skinid="ht_node" pan="-225.649" url="{node4}" target="$fwd"/>
+      <hotspot distance="343.527" tilt="3.62" title="东门广场" id="Point13" description="" skinid="ht_node" pan="-247.953" url="{node3}" target="$fwd"/>
+      <hotspot distance="300.964" tilt="25.75" title="第一实验楼上空（低）" id="Point14" description="" skinid="ht_node" pan="-258.09" url="{node13}" target="$fwd"/>
+      <hotspot distance="320.611" tilt="31.33" title="第一实验楼上空（高）" id="Point15" description="" skinid="ht_node" pan="-259.065" url="{node26}" target="$fwd"/>
+      <hotspot distance="431.908" tilt="0" title="图书馆" id="Point16" description="" skinid="ht_node" pan="63.0036" url="{node1}" target="$fwd"/>
+      <hotspot distance="233.058" tilt="32.22" title="第一教学楼上空（高）" id="Point17" description="" skinid="ht_node" pan="66.0882" url="{node18}" target="$fwd"/>
+      <hotspot distance="562.51" tilt="24.74" title="缙湖上空" id="Point18" description="" skinid="ht_node" pan="35.6546" url="{node14}" target="$fwd"/>
+      <hotspot distance="409.102" tilt="0" title="植物园" id="Point19" description="" skinid="ht_node" pan="46.6945" url="{node2}" target="$fwd"/>
+      <hotspot distance="485.072" tilt="25.05" title="第一食堂上空" id="Point20" description="" skinid="ht_node" pan="10.3229" url="{node24}" target="$fwd"/>
+      <hotspot distance="555.73" tilt="0" title="第一食堂" id="Point21" description="" skinid="ht_node" pan="2.4591" url="{node7}" target="$fwd"/>
+      <hotspot distance="680.259" tilt="0" title="竹园四栋" id="Point22" description="" skinid="ht_node" pan="-9.12651" url="{node6}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbias="0.400" levelingpitch="0" height="2048" levelbiashidpi="1.000" levelingroll="0" width="2048" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-281">
+      <start fov="70" tilt="6.25194" projection="4" pan="-1.10219"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata source="" comment="" nodeid="node10" title="综合楼" tags="PANORAMA" info="" author="" longitude="106.29637778" datetime="2024-05-21 13:15" description="" customnodeid="" latitude="29.59779437" copyright="" heading="-281"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="168.466" tilt="32.11" title="第一教学楼上空（低）" id="Point01" description="" skinid="ht_node" pan="-3.05588" url="{node27}" target="$fwd"/>
+      <hotspot distance="258.113" tilt="29.12" title="梅园篮球场上空" id="Point02" description="" skinid="ht_node" pan="-314.364" url="{node19}" target="$fwd"/>
+      <hotspot distance="391.315" tilt="4.11" title="风雨操场" id="Point03" description="" skinid="ht_node" pan="-334.693" url="{node9}" target="$fwd"/>
+      <hotspot distance="590.167" tilt="31.68" title="体育馆上空" id="Point04" description="" skinid="ht_node" pan="-340.474" url="{node17}" target="$fwd"/>
+      <hotspot distance="412.405" tilt="30.06" title="第一实验楼上空（低）" id="Point05" description="" skinid="ht_node" pan="-379.937" url="{node13}" target="$fwd"/>
+      <hotspot distance="203.776" tilt="35.99" title="第一教学楼上空（高）" id="Point06" description="" skinid="ht_node" pan="-371.216" url="{node18}" target="$fwd"/>
+      <hotspot distance="372.836" tilt="37.98" title="第一实验楼上空（高）" id="Point07" description="" skinid="ht_node" pan="-379.794" url="{node26}" target="$fwd"/>
+      <hotspot distance="181.308" tilt="29.97" title="植物园上空" id="Point08" description="" skinid="ht_node" pan="-413.398" url="{node11}" target="$fwd"/>
+      <hotspot distance="217.854" tilt="8.45" title="图书馆" id="Point09" description="" skinid="ht_node" pan="-428.878" url="{node1}" target="$fwd"/>
+      <hotspot distance="98.2366" tilt="6.53" title="植物园" id="Point10" description="" skinid="ht_node" pan="-415.263" url="{node2}" target="$fwd"/>
+      <hotspot distance="245.454" tilt="29.69" title="缙湖上空" id="Point11" description="" skinid="ht_node" pan="-489.851" url="{node14}" target="$fwd"/>
+      <hotspot distance="303.166" tilt="30.14" title="缙湖上空" id="Point12" description="" skinid="ht_node" pan="-146.443" url="{node15}" target="$fwd"/>
+      <hotspot distance="397.17" tilt="34.9" title="荷塘上空" id="Point13" description="" skinid="ht_node" pan="-166.692" url="{node12}" target="$fwd"/>
+      <hotspot distance="462.808" tilt="6.77" title="第二食堂" id="Point14" description="" skinid="ht_node" pan="-199.18" url="{node5}" target="$fwd"/>
+      <hotspot distance="294.45" tilt="10.31" title="第一食堂" id="Point15" description="" skinid="ht_node" pan="-240.468" url="{node7}" target="$fwd"/>
+      <hotspot distance="239.783" tilt="35.57" title="第一食堂上空" id="Point16" description="" skinid="ht_node" pan="-242.308" url="{node24}" target="$fwd"/>
+      <hotspot distance="407.185" tilt="5.26" title="北门" id="Point17" description="" skinid="ht_node" pan="-309.556" url="{node8}" target="$fwd"/>
+      <hotspot distance="145.206" tilt="50.3" title="中心" id="Point18" description="" skinid="ht_node" pan="-309.707" url="{node22}" target="$fwd"/>
+      <hotspot tilt="63.34" title="" id="Point19" description="" skinid="ht_node" pan="-153.04" url="" target=""/>
+      <hotspot distance="24.1157" tilt="41.27" title="综合楼上空秋季" id="Point20" description="" skinid="ht_node" pan="-351.183" url="{node30}" target="$fwd"/>
+      <hotspot distance="462.807" tilt="7.97" title="东门广场" id="Point21" description="" skinid="ht_node" pan="-386.977" url="{node3}" target="$fwd"/>
+      <hotspot distance="668.587" tilt="8.2" title="东门" id="Point22" description="" skinid="ht_node" pan="-382.019" url="{node4}" target="$fwd"/>
+      <hotspot distance="468.977" tilt="9.85" title="竹园四栋" id="Point23" description="" skinid="ht_node" pan="-231.989" url="{node6}" target="$fwd"/>
+      <hotspot distance="413.101" tilt="35.45" title="快递站上空" id="Point24" description="" skinid="ht_node" pan="-232.182" url="{node23}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelbias="0.400" levelingpitch="0" height="2383" levelbiashidpi="1.000" levelingroll="0" width="2383" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2383" width="2383" predecode="0" preload="0"/>
+      <level height="1191" width="1191" predecode="0" preload="0"/>
+      <level height="595" width="595" predecode="0" preload="0"/>
+      <level height="297" width="297" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="334.75" source="" comment="" nodeid="node30" title="综合楼上空秋季" tags="PANORAMA" info="" author="" longitude="106.296614" datetime="2023-11-27 13:16" description="" customnodeid="" latitude="29.597864" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="395.483" tilt="-13.76" title="北门" id="Point01" description="" skinid="ht_node" pan="-9.21546" url="{node8}" target="$fwd"/>
+      <hotspot distance="127.586" tilt="0" title="中心" id="Point02" description="" skinid="ht_node" pan="-24.632" url="{node22}" target="$fwd"/>
+      <hotspot distance="237.983" tilt="0" title="梅园篮球场上空" id="Point03" description="" skinid="ht_node" pan="-36.2939" url="{node19}" target="$fwd"/>
+      <hotspot distance="249.69" tilt="0" title="第一食堂上空" id="Point04" description="" skinid="ht_node" pan="45.5318" url="{node24}" target="$fwd"/>
+      <hotspot distance="307.747" tilt="-19.17" title="第一食堂" id="Point05" description="" skinid="ht_node" pan="51.3919" url="{node7}" target="$fwd"/>
+      <hotspot distance="484.298" tilt="-11.9" title="第二食堂" id="Point06" description="" skinid="ht_node" pan="82.924" url="{node5}" target="$fwd"/>
+      <hotspot distance="24.1157" tilt="-70.03" title="综合楼" id="Point07" description="" skinid="ht_node" pan="112.377" url="{node10}" target="$fwd"/>
+      <hotspot distance="420.506" tilt="0" title="荷塘上空" id="Point08" description="" skinid="ht_node" pan="122.915" url="{node12}" target="$fwd"/>
+      <hotspot distance="325.216" tilt="0" title="缙湖上空" id="Point09" description="" skinid="ht_node" pan="131.735" url="{node15}" target="$fwd"/>
+      <hotspot distance="254.075" tilt="0" title="缙湖上空" id="Point10" description="" skinid="ht_node" pan="175.219" url="{node14}" target="$fwd"/>
+      <hotspot distance="96.7154" tilt="-40.96" title="植物园" id="Point11" description="" skinid="ht_node" pan="-162.216" url="{node2}" target="$fwd"/>
+      <hotspot distance="211.309" tilt="-25.15" title="图书馆" id="Point12" description="" skinid="ht_node" pan="-140.799" url="{node1}" target="$fwd"/>
+      <hotspot distance="167.494" tilt="0" title="植物园上空" id="Point13" description="" skinid="ht_node" pan="-129.641" url="{node11}" target="$fwd"/>
+      <hotspot distance="353.466" tilt="0" title="第一实验楼上空（高）" id="Point14" description="" skinid="ht_node" pan="-108.982" url="{node26}" target="$fwd"/>
+      <hotspot distance="391.658" tilt="0" title="第一实验楼上空（低）" id="Point15" description="" skinid="ht_node" pan="-102.81" url="{node13}" target="$fwd"/>
+      <hotspot distance="144.386" tilt="0" title="第一教学楼上空（低）" id="Point16" description="" skinid="ht_node" pan="-74.6373" url="{node27}" target="$fwd"/>
+      <hotspot distance="180.501" tilt="0" title="第一教学楼上空（高）" id="Point17" description="" skinid="ht_node" pan="-87.422" url="{node18}" target="$fwd"/>
+      <hotspot distance="566.355" tilt="0" title="体育馆上空" id="Point18" description="" skinid="ht_node" pan="-61.9756" url="{node17}" target="$fwd"/>
+      <hotspot distance="367.973" tilt="-15.85" title="风雨操场" id="Point19" description="" skinid="ht_node" pan="-56.3479" url="{node9}" target="$fwd"/>
+      <hotspot distance="368.137" tilt="0" title="风雨操场上空" id="Point20" description="" skinid="ht_node" pan="-55.7136" url="{node16}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-90" projection="4" pan="90.5459"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="445.25" source="" comment="" nodeid="node11" title="植物园上空" tags="PANORAMA" info="" author="" longitude="106.297948" datetime="2024-05-21 15:52" description="" customnodeid="" latitude="29.596903" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="235.374" tilt="0" title="中心" id="Point01" description="" skinid="ht_node" pan="18.7865" url="{node22}" target="$fwd"/>
+      <hotspot distance="502.402" tilt="-13.84" title="北门" id="Point02" description="" skinid="ht_node" pan="13.3544" url="{node8}" target="$fwd"/>
+      <hotspot distance="125.917" tilt="0" title="第一教学楼上空（高）" id="Point04" description="" skinid="ht_node" pan="-24.0621" url="{node18}" target="$fwd"/>
+      <hotspot distance="358.062" tilt="-19.85" title="风雨操场" id="Point05" description="" skinid="ht_node" pan="-24.3074" url="{node9}" target="$fwd"/>
+      <hotspot distance="714.06" tilt="0" title="校外俯瞰" id="Point06" description="" skinid="ht_node" pan="-38.5228" url="{node25}" target="$fwd"/>
+      <hotspot distance="416.828" tilt="0" title="第一食堂上空" id="Point07" description="" skinid="ht_node" pan="47.4689" url="{node24}" target="$fwd"/>
+      <hotspot distance="181.308" tilt="-33.44" title="综合楼" id="Point08" description="" skinid="ht_node" pan="61.2208" url="{node10}" target="$fwd"/>
+      <hotspot distance="632.557" tilt="-11.52" title="第二食堂" id="Point09" description="" skinid="ht_node" pan="77.3092" url="{node5}" target="$fwd"/>
+      <hotspot distance="104.464" tilt="-51.42" title="植物园" id="Point10" description="" skinid="ht_node" pan="91.4642" url="{node2}" target="$fwd"/>
+      <hotspot distance="387.498" tilt="0" title="缙湖上空" id="Point11" description="" skinid="ht_node" pan="106.435" url="{node15}" target="$fwd"/>
+      <hotspot distance="209.666" tilt="0" title="缙湖上空" id="Point12" description="" skinid="ht_node" pan="134.261" url="{node14}" target="$fwd"/>
+      <hotspot distance="76.0232" tilt="0" title="图书馆" id="Point13" description="" skinid="ht_node" pan="165.495" url="{node1}" target="$fwd"/>
+      <hotspot distance="253.722" tilt="0" title="第一实验楼上空（低）" id="Point14" description="" skinid="ht_node" pan="-85.4748" url="{node13}" target="$fwd"/>
+      <hotspot distance="205.426" tilt="0" title="第一实验楼上空（高）" id="Point15" description="" skinid="ht_node" pan="-92.2641" url="{node26}" target="$fwd"/>
+      <hotspot distance="526.038" tilt="0" title="体育馆上空" id="Point16" description="" skinid="ht_node" pan="-44.8475" url="{node17}" target="$fwd"/>
+      <hotspot distance="475.012" tilt="-15.86" title="第一食堂" id="Point17" description="" skinid="ht_node" pan="54.8992" url="{node7}" target="$fwd"/>
+      <hotspot distance="145.471" tilt="0" title="第一教学楼上空（低）" id="Point03" description="" skinid="ht_node" pan="-4.03991" url="{node27}" target="$fwd"/>
+      <hotspot distance="359.774" tilt="0" title="风雨操场上空" id="Point18" description="" skinid="ht_node" pan="-29.1401" url="{node16}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-33.2773" projection="4" pan="-85.4082"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="446.33" source="" comment="" nodeid="node12" title="荷塘上空" tags="PANORAMA" info="" author="" longitude="106.292963" datetime="2024-05-21 15:02" description="" customnodeid="" latitude="29.595809" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="318.987" tilt="-21.86" title="第二食堂" id="Point01" description="" skinid="ht_node" pan="12.4395" url="{node5}" target="$fwd"/>
+      <hotspot distance="540.922" tilt="-11.96" title="竹园四栋" id="Point02" description="" skinid="ht_node" pan="348.843" url="{node6}" target="$fwd"/>
+      <hotspot distance="540.042" tilt="0" title="快递站上空" id="Point03" description="" skinid="ht_node" pan="-6.75486" url="{node23}" target="$fwd"/>
+      <hotspot distance="421.992" tilt="-16.15" title="第一食堂" id="Point04" description="" skinid="ht_node" pan="-25.3342" url="{node7}" target="$fwd"/>
+      <hotspot distance="439.661" tilt="0" title="第一食堂上空" id="Point05" description="" skinid="ht_node" pan="-23.4276" url="{node24}" target="$fwd"/>
+      <hotspot distance="744.643" tilt="-8.72" title="北门" id="Point06" description="" skinid="ht_node" pan="-44.9312" url="{node8}" target="$fwd"/>
+      <hotspot distance="332.749" tilt="0" title="缙湖上空" id="Point07" description="" skinid="ht_node" pan="-94.2536" url="{node14}" target="$fwd"/>
+      <hotspot distance="110.972" tilt="0" title="缙湖上空" id="Point08" description="" skinid="ht_node" pan="-83.7872" url="{node15}" target="$fwd"/>
+      <hotspot distance="497.098" tilt="0" title="植物园上空" id="Point09" description="" skinid="ht_node" pan="-75.8338" url="{node11}" target="$fwd"/>
+      <hotspot distance="401.823" tilt="-16.32" title="植物园" id="Point10" description="" skinid="ht_node" pan="-84.7197" url="{node2}" target="$fwd"/>
+      <hotspot distance="532.586" tilt="0" title="中心" id="Point11" description="" skinid="ht_node" pan="-49.6975" url="{node22}" target="$fwd"/>
+      <hotspot distance="397.17" tilt="-18.18" title="综合楼" id="Point12" description="" skinid="ht_node" pan="-64.3205" url="{node10}" target="$fwd"/>
+      <hotspot distance="559.866" tilt="0" title="第一教学楼上空（低）" id="Point13" description="" skinid="ht_node" pan="-61.5439" url="{node27}" target="$fwd"/>
+      <hotspot distance="788.587" tilt="0" title="风雨操场上空" id="Point14" description="" skinid="ht_node" pan="-56.4431" url="{node16}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbias="0.400" levelingpitch="0" height="2387" levelbiashidpi="1.000" levelingroll="0" width="2387" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2387" width="2387" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-17.2139" projection="4" pan="88.6146"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="357.58" source="" comment="" nodeid="node13" title="第一实验楼上空（低）" tags="PANORAMA" info="" author="" longitude="106.300564" datetime="2024-05-21 15:15" description="" customnodeid="" latitude="29.597083" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="368.438" tilt="0" title="梅园篮球场上空" id="Point01" description="" skinid="ht_node" pan="40.8591" url="{node19}" target="$fwd"/>
+      <hotspot distance="575.799" tilt="-2.05" title="北门" id="Point02" description="" skinid="ht_node" pan="23.5209" url="{node8}" target="$fwd"/>
+      <hotspot distance="300.964" tilt="-8.93" title="风雨操场" id="Point03" description="" skinid="ht_node" pan="0.259922" url="{node9}" target="$fwd"/>
+      <hotspot distance="372.153" tilt="5.7" title="体育馆上空" id="Point04" description="" skinid="ht_node" pan="-40.3642" url="{node17}" target="$fwd"/>
+      <hotspot distance="386.263" tilt="13.31" title="中心" id="Point05" description="" skinid="ht_node" pan="58.3355" url="{node22}" target="$fwd"/>
+      <hotspot distance="222.836" tilt="0" title="第一教学楼上空（高）" id="Point06" description="" skinid="ht_node" pan="64.7763" url="{node18}" target="$fwd"/>
+      <hotspot distance="412.405" tilt="-3.81" title="综合楼" id="Point07" description="" skinid="ht_node" pan="62.5209" url="{node10}" target="$fwd"/>
+      <hotspot distance="253.722" tilt="0" title="植物园上空" id="Point08" description="" skinid="ht_node" pan="94.5239" url="{node11}" target="$fwd"/>
+      <hotspot distance="637.911" tilt="0" title="缙湖上空" id="Point09" description="" skinid="ht_node" pan="101.725" url="{node15}" target="$fwd"/>
+      <hotspot distance="287.634" tilt="-9.68" title="图书馆" id="Point10" description="" skinid="ht_node" pan="92.2631" url="{node1}" target="$fwd"/>
+      <hotspot distance="55.349" tilt="0" title="第一实验楼上空（高）" id="Point11" description="" skinid="ht_node" pan="120.549" url="{node26}" target="$fwd"/>
+      <hotspot distance="54.2156" tilt="-42.91" title="东门广场" id="Point12" description="" skinid="ht_node" pan="-125.106" url="{node3}" target="$fwd"/>
+      <hotspot distance="256.53" tilt="-10.11" title="东门" id="Point13" description="" skinid="ht_node" pan="-109.718" url="{node4}" target="$fwd"/>
+      <hotspot tilt="1.99" title="" id="Point14" description="" skinid="ht_node" pan="-298.75" url="" target=""/>
+      <hotspot distance="436.063" tilt="0" title="缙湖上空" id="Point15" description="" skinid="ht_node" pan="112.424" url="{node14}" target="$fwd"/>
+      <hotspot distance="391.658" tilt="0" title="综合楼上空秋季" id="Point16" description="" skinid="ht_node" pan="77.1882" url="{node30}" target="$fwd"/>
+      <hotspot distance="304.317" tilt="8.67" title="风雨操场上空" id="Point17" description="" skinid="ht_node" pan="358.769" url="{node16}" target="$fwd"/>
+      <hotspot distance="571.765" tilt="15.41" title="校外俯瞰" id="Point18" description="" skinid="ht_node" pan="-38.9118" url="{node25}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-19.5198" projection="4" pan="106.595"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="430.84" source="" comment="" nodeid="node26" title="第一实验楼上空（高）" tags="PANORAMA" info="" author="" longitude="106.300071" datetime="2024-05-21 15:13" description="" customnodeid="" latitude="29.596830" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="362.643" tilt="0" title="梅园篮球场上空" id="Point01" description="" skinid="ht_node" pan="32.2231" url="{node19}" target="$fwd"/>
+      <hotspot distance="320.611" tilt="-20.19" title="风雨操场" id="Point02" description="" skinid="ht_node" pan="355.085" url="{node9}" target="$fwd"/>
+      <hotspot distance="415.539" tilt="0" title="体育馆上空" id="Point03" description="" skinid="ht_node" pan="-23.5029" url="{node17}" target="$fwd"/>
+      <hotspot distance="55.349" tilt="0" title="第一实验楼上空（低）" id="Point04" description="" skinid="ht_node" pan="-59.4511" url="{node13}" target="$fwd"/>
+      <hotspot distance="92.6258" tilt="-50.94" title="东门广场" id="Point05" description="" skinid="ht_node" pan="-94.0138" url="{node3}" target="$fwd"/>
+      <hotspot distance="233.67" tilt="-29.5" title="图书馆" id="Point06" description="" skinid="ht_node" pan="91.9737" url="{node1}" target="$fwd"/>
+      <hotspot distance="585.795" tilt="0" title="缙湖上空" id="Point07" description="" skinid="ht_node" pan="99.9785" url="{node15}" target="$fwd"/>
+      <hotspot distance="205.426" tilt="0" title="植物园上空" id="Point08" description="" skinid="ht_node" pan="87.7349" url="{node11}" target="$fwd"/>
+      <hotspot distance="372.836" tilt="-14.94" title="综合楼" id="Point09" description="" skinid="ht_node" pan="61.9739" url="{node10}" target="$fwd"/>
+      <hotspot distance="588.744" tilt="0" title="第一食堂上空" id="Point10" description="" skinid="ht_node" pan="60.5016" url="{node24}" target="$fwd"/>
+      <hotspot distance="197.09" tilt="0" title="第一教学楼上空（高）" id="Point11" description="" skinid="ht_node" pan="51.3503" url="{node18}" target="$fwd"/>
+      <hotspot tilt="0.17" title="" id="Point12" description="" skinid="ht_node" pan="-304.33" url="" target=""/>
+      <hotspot distance="381.35" tilt="0" title="缙湖上空" id="Point13" description="" skinid="ht_node" pan="111.249" url="{node14}" target="$fwd"/>
+      <hotspot distance="833.74" tilt="-7.23" title="第二食堂" id="Point14" description="" skinid="ht_node" pan="69.7655" url="{node5}" target="$fwd"/>
+      <hotspot distance="353.466" tilt="0" title="综合楼上空秋季" id="Point15" description="" skinid="ht_node" pan="71.0166" url="{node30}" target="$fwd"/>
+      <hotspot distance="323.753" tilt="0" title="风雨操场上空" id="Point16" description="" skinid="ht_node" pan="5.32903" url="{node16}" target="$fwd"/>
+      <hotspot distance="302.171" tilt="-22.27" title="东门" id="Point17" description="" skinid="ht_node" pan="-99.4408" url="{node4}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbias="0.400" levelingpitch="0" height="2386" levelbiashidpi="1.000" levelingroll="0" width="2386" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2386" width="2386" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-33.3955" projection="4" pan="-37.6041"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="373.64" source="" comment="" nodeid="node14" title="缙湖上空" tags="PANORAMA" info="" author="" longitude="106.296395" datetime="2024-05-21 15:06" description="" customnodeid="" latitude="29.595587" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="490.027" tilt="-6.67" title="第一食堂" id="Point01" description="" skinid="ht_node" pan="20.2859" url="{node7}" target="$fwd"/>
+      <hotspot distance="455.987" tilt="0" title="第一食堂上空" id="Point02" description="" skinid="ht_node" pan="20.1415" url="{node24}" target="$fwd"/>
+      <hotspot distance="245.454" tilt="-10.9" title="综合楼" id="Point03" description="" skinid="ht_node" pan="359.389" url="{node10}" target="$fwd"/>
+      <hotspot distance="649.18" tilt="-2.61" title="北门" id="Point04" description="" skinid="ht_node" pan="-12.439" url="{node8}" target="$fwd"/>
+      <hotspot distance="166.515" tilt="-18.19" title="植物园" id="Point05" description="" skinid="ht_node" pan="-23.6311" url="{node2}" target="$fwd"/>
+      <hotspot distance="332.667" tilt="0" title="第一教学楼上空（低）" id="Point06" description="" skinid="ht_node" pan="-28.8269" url="{node27}" target="$fwd"/>
+      <hotspot distance="329.973" tilt="0" title="第一教学楼上空（高）" id="Point07" description="" skinid="ht_node" pan="-37.6353" url="{node18}" target="$fwd"/>
+      <hotspot distance="209.666" tilt="0" title="植物园上空" id="Point08" description="" skinid="ht_node" pan="-45.7383" url="{node11}" target="$fwd"/>
+      <hotspot distance="149.936" tilt="-17.11" title="图书馆" id="Point09" description="" skinid="ht_node" pan="-64.1913" url="{node1}" target="$fwd"/>
+      <hotspot distance="381.35" tilt="0" title="第一实验楼上空（高）" id="Point10" description="" skinid="ht_node" pan="-68.7492" url="{node26}" target="$fwd"/>
+      <hotspot distance="671.066" tilt="-3.71" title="东门" id="Point11" description="" skinid="ht_node" pan="-81.9056" url="{node4}" target="$fwd"/>
+      <hotspot distance="332.749" tilt="0" title="荷塘上空" id="Point12" description="" skinid="ht_node" pan="85.7447" url="{node12}" target="$fwd"/>
+      <hotspot distance="224.53" tilt="0" title="缙湖上空" id="Point13" description="" skinid="ht_node" pan="80.5935" url="{node15}" target="$fwd"/>
+      <hotspot distance="557.879" tilt="-6.18" title="第二食堂" id="Point14" description="" skinid="ht_node" pan="51.0571" url="{node5}" target="$fwd"/>
+      <hotspot distance="254.075" tilt="0.79" title="" id="Point15" description="" skinid="ht_node" pan="-354.69" url="{node30}" target=""/>
+      <hotspot distance="473.588" tilt="0" title="梅园篮球场上空" id="Point16" description="" skinid="ht_node" pan="-20.0084" url="{node19}" target="$fwd"/>
+      <hotspot distance="621.838" tilt="0" title="快递站上空" id="Point17" description="" skinid="ht_node" pan="25.5599" url="{node23}" target="$fwd"/>
+      <hotspot distance="662.135" tilt="-4.39" title="竹园四栋" id="Point18" description="" skinid="ht_node" pan="27.0505" url="{node6}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbias="0.400" levelingpitch="0" height="2386" levelbiashidpi="1.000" levelingroll="0" width="2386" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2386" width="2386" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-38.4509" projection="4" pan="-87.6484"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="436.05" source="" comment="" nodeid="node15" title="缙湖上空" tags="PANORAMA" info="" author="" longitude="106.294104" datetime="2024-05-21 14:59" description="" customnodeid="" latitude="29.595917" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="303.166" tilt="-20.82" title="综合楼" id="Point01" description="" skinid="ht_node" pan="-54.7016" url="{node10}" target="$fwd"/>
+      <hotspot distance="387.498" tilt="0" title="植物园上空" id="Point02" description="" skinid="ht_node" pan="-73.5634" url="{node11}" target="$fwd"/>
+      <hotspot distance="295.024" tilt="-20.49" title="植物园" id="Point03" description="" skinid="ht_node" pan="-74.3019" url="{node2}" target="$fwd"/>
+      <hotspot distance="354.461" tilt="-15.96" title="图书馆" id="Point04" description="" skinid="ht_node" pan="-83.8737" url="{node1}" target="$fwd"/>
+      <hotspot distance="224.53" tilt="0" title="缙湖上空" id="Point05" description="" skinid="ht_node" pan="-99.4053" url="{node14}" target="$fwd"/>
+      <hotspot distance="367.518" tilt="-18.09" title="第二食堂" id="Point06" description="" skinid="ht_node" pan="31.7086" url="{node5}" target="$fwd"/>
+      <hotspot distance="542.88" tilt="-11.5" title="竹园四栋" id="Point07" description="" skinid="ht_node" pan="2.89411" url="{node6}" target="$fwd"/>
+      <hotspot distance="397.081" tilt="-16.22" title="第一食堂" id="Point08" description="" skinid="ht_node" pan="350.986" url="{node7}" target="$fwd"/>
+      <hotspot distance="396.683" tilt="0" title="第一食堂上空" id="Point09" description="" skinid="ht_node" pan="-9.35601" url="{node24}" target="$fwd"/>
+      <hotspot distance="678.764" tilt="-9.36" title="北门" id="Point10" description="" skinid="ht_node" pan="-37.3401" url="{node8}" target="$fwd"/>
+      <hotspot distance="459.077" tilt="0" title="第一教学楼上空（低）" id="Point11" description="" skinid="ht_node" pan="-56.2944" url="{node27}" target="$fwd"/>
+      <hotspot distance="110.972" tilt="0" title="荷塘上空" id="Point12" description="" skinid="ht_node" pan="96.2123" url="{node12}" target="$fwd"/>
+      <hotspot distance="325.216" tilt="-0.97" title="" id="Point13" description="" skinid="ht_node" pan="-52.19" url="{node30}" target=""/>
+      <hotspot distance="585.795" tilt="0" title="第一实验楼上空（高）" id="Point14" description="" skinid="ht_node" pan="-80.0185" url="{node26}" target="$fwd"/>
+      <hotspot distance="478.939" tilt="0" title="第一教学楼上空（高）" id="Point15" description="" skinid="ht_node" pan="-62.0307" url="{node18}" target="$fwd"/>
+      <hotspot distance="445.051" tilt="0" title="中心" id="Point16" description="" skinid="ht_node" pan="-41.6643" url="{node22}" target="$fwd"/>
+      <hotspot distance="526.368" tilt="0" title="快递站上空" id="Point17" description="" skinid="ht_node" pan="5.10037" url="{node23}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-26.901" projection="4" pan="164.987"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="397.78" source="" comment="" nodeid="node16" title="风雨操场上空" tags="PANORAMA" info="" author="" longitude="106.299760" datetime="2024-05-21 15:57" description="" customnodeid="" latitude="29.599729" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="8.26441" tilt="0" title="风雨操场上空（低）" id="Point01" description="" skinid="ht_node" pan="-25.6489" url="{node20}" target="$fwd"/>
+      <hotspot distance="363.858" tilt="0" title="校外俯瞰" id="Point02" description="" skinid="ht_node" pan="-47.8002" url="{node25}" target="$fwd"/>
+      <hotspot distance="27.7498" tilt="0" title="风雨操场上空（高）" id="Point03" description="" skinid="ht_node" pan="-58.6062" url="{node21}" target="$fwd"/>
+      <hotspot distance="204.397" tilt="0" title="体育馆上空" id="Point04" description="" skinid="ht_node" pan="-73.3068" url="{node17}" target="$fwd"/>
+      <hotspot distance="465.886" tilt="-9.09" title="东门" id="Point05" description="" skinid="ht_node" pan="-128.935" url="{node4}" target="$fwd"/>
+      <hotspot distance="3.50017" tilt="-83.39" title="风雨操场" id="Point06" description="" skinid="ht_node" pan="-13.7473" url="{node9}" target="$fwd"/>
+      <hotspot distance="346.967" tilt="-12.31" title="东门广场" id="Point07" description="" skinid="ht_node" pan="-151.356" url="{node3}" target="$fwd"/>
+      <hotspot distance="304.317" tilt="0" title="第一实验楼上空（低）" id="Point08" description="" skinid="ht_node" pan="-165.2" url="{node13}" target="$fwd"/>
+      <hotspot distance="323.753" tilt="0" title="第一实验楼上空（高）" id="Point09" description="" skinid="ht_node" pan="-174.671" url="{node26}" target="$fwd"/>
+      <hotspot distance="433.756" tilt="-11.21" title="图书馆" id="Point10" description="" skinid="ht_node" pan="162.757" url="{node1}" target="$fwd"/>
+      <hotspot distance="234.616" tilt="0" title="第一教学楼上空（高）" id="Point11" description="" skinid="ht_node" pan="148.136" url="{node18}" target="$fwd"/>
+      <hotspot distance="236.242" tilt="0" title="第一教学楼上空（低）" id="Point12" description="" skinid="ht_node" pan="135.717" url="{node27}" target="$fwd"/>
+      <hotspot distance="391.423" tilt="-10.69" title="综合楼" id="Point13" description="" skinid="ht_node" pan="123.818" url="{node10}" target="$fwd"/>
+      <hotspot distance="267.117" tilt="0" title="中心" id="Point14" description="" skinid="ht_node" pan="110.009" url="{node22}" target="$fwd"/>
+      <hotspot distance="164.039" tilt="0" title="梅园篮球场上空" id="Point15" description="" skinid="ht_node" pan="95.4451" url="{node19}" target="$fwd"/>
+      <hotspot distance="602.067" tilt="0" title="快递站上空" id="Point16" description="" skinid="ht_node" pan="80.3982" url="{node23}" target="$fwd"/>
+      <hotspot distance="305.087" tilt="-14.52" title="北门" id="Point17" description="" skinid="ht_node" pan="55.9027" url="{node8}" target="$fwd"/>
+      <hotspot tilt="0.7" title="" id="Point18" description="" skinid="ht_node" pan="-229.72" url="" target=""/>
+      <hotspot distance="368.137" tilt="0" title="综合楼上空秋季" id="Point19" description="" skinid="ht_node" pan="124.285" url="{node30}" target="$fwd"/>
+      <hotspot distance="13.4187" tilt="0" title="风雨操场上空傍晚（高）" id="Point20" description="" skinid="ht_node" pan="14.1804" url="{node29}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-18.8625" projection="4" pan="171.112"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="430.84" source="" comment="" nodeid="node27" title="第一教学楼上空（低）" tags="PANORAMA" info="" author="" longitude="106.298054" datetime="2024-05-21 15:11" description="" customnodeid="" latitude="29.598208" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="361.294" tilt="-17.09" title="北门" id="Point01" description="" skinid="ht_node" pan="2.30071" url="{node8}" target="$fwd"/>
+      <hotspot distance="115.956" tilt="0" title="中心" id="Point02" description="" skinid="ht_node" pan="47.9095" url="{node22}" target="$fwd"/>
+      <hotspot distance="153.569" tilt="0" title="梅园篮球场上空" id="Point03" description="" skinid="ht_node" pan="-0.613239" url="{node19}" target="$fwd"/>
+      <hotspot distance="235.397" tilt="-26.48" title="风雨操场" id="Point04" description="" skinid="ht_node" pan="-53.5673" url="{node9}" target="$fwd"/>
+      <hotspot distance="426.656" tilt="0" title="体育馆上空" id="Point05" description="" skinid="ht_node" pan="-57.7223" url="{node17}" target="$fwd"/>
+      <hotspot distance="521.507" tilt="-13.33" title="东门" id="Point06" description="" skinid="ht_node" pan="-118.478" url="{node4}" target="$fwd"/>
+      <hotspot distance="273.025" tilt="0" title="第一实验楼上空（低）" id="Point07" description="" skinid="ht_node" pan="-117.269" url="{node13}" target="$fwd"/>
+      <hotspot distance="50.9562" tilt="6.84" title="第一教学楼上空（高）" id="Point08" description="" skinid="ht_node" pan="-117.134" url="{node18}" target="$fwd"/>
+      <hotspot distance="145.471" tilt="0" title="植物园上空" id="Point09" description="" skinid="ht_node" pan="175.96" url="{node11}" target="$fwd"/>
+      <hotspot distance="332.667" tilt="0" title="缙湖上空" id="Point10" description="" skinid="ht_node" pan="151.172" url="{node14}" target="$fwd"/>
+      <hotspot distance="173.979" tilt="-32.25" title="植物园" id="Point11" description="" skinid="ht_node" pan="131.585" url="{node2}" target="$fwd"/>
+      <hotspot distance="459.077" tilt="0" title="缙湖上空" id="Point12" description="" skinid="ht_node" pan="123.704" url="{node15}" target="$fwd"/>
+      <hotspot distance="559.866" tilt="0" title="荷塘上空" id="Point13" description="" skinid="ht_node" pan="118.454" url="{node12}" target="$fwd"/>
+      <hotspot distance="168.466" tilt="-33.26" title="综合楼" id="Point14" description="" skinid="ht_node" pan="93.7433" url="{node10}" target="$fwd"/>
+      <hotspot distance="619.803" tilt="-10.35" title="第二食堂" id="Point15" description="" skinid="ht_node" pan="76.629" url="{node5}" target="$fwd"/>
+      <hotspot distance="345.584" tilt="0" title="第一食堂上空" id="Point16" description="" skinid="ht_node" pan="66.7056" url="{node24}" target="$fwd"/>
+      <hotspot distance="506.39" tilt="0" title="快递站上空" id="Point17" description="" skinid="ht_node" pan="57.8399" url="{node23}" target="$fwd"/>
+      <hotspot distance="144.386" tilt="0" title="综合楼上空秋季" id="Point19" description="" skinid="ht_node" pan="105.362" url="{node30}" target="$fwd"/>
+      <hotspot distance="236.242" tilt="0" title="风雨操场上空" id="Point18" description="" skinid="ht_node" pan="-44.282" url="{node16}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbias="0.400" levelingpitch="0" height="2384" levelbiashidpi="1.000" levelingroll="0" width="2384" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2384" width="2384" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-51.2046" projection="4" pan="-179.374"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="537.26" source="" comment="" nodeid="node18" title="第一教学楼上空（高）" tags="PANORAMA" info="" author="" longitude="106.298479" datetime="2024-05-21 15:50" description="" customnodeid="" latitude="29.597937" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="401.07" tilt="-28.87" title="北门" id="Point01" description="" skinid="ht_node" pan="22.2958" url="{node8}" target="$fwd"/>
+      <hotspot distance="187.882" tilt="0" title="梅园篮球场上空" id="Point02" description="" skinid="ht_node" pan="12.1198" url="{node19}" target="$fwd"/>
+      <hotspot distance="233.058" tilt="-42.69" title="风雨操场" id="Point03" description="" skinid="ht_node" pan="-26.1311" url="{node9}" target="$fwd"/>
+      <hotspot distance="592.966" tilt="0" title="校外俯瞰" id="Point04" description="" skinid="ht_node" pan="-41.5628" url="{node25}" target="$fwd"/>
+      <hotspot distance="410.753" tilt="0" title="体育馆上空" id="Point05" description="" skinid="ht_node" pan="-51.093" url="{node17}" target="$fwd"/>
+      <hotspot distance="473.516" tilt="-25.15" title="东门" id="Point06" description="" skinid="ht_node" pan="-99.5032" url="{node4}" target="$fwd"/>
+      <hotspot distance="222.836" tilt="0" title="第一实验楼上空（低）" id="Point07" description="" skinid="ht_node" pan="-115.223" url="{node13}" target="$fwd"/>
+      <hotspot distance="197.09" tilt="0" title="第一实验楼上空（高）" id="Point08" description="" skinid="ht_node" pan="-128.649" url="{node26}" target="$fwd"/>
+      <hotspot distance="125.917" tilt="0" title="植物园上空" id="Point09" description="" skinid="ht_node" pan="155.938" url="{node11}" target="$fwd"/>
+      <hotspot distance="329.973" tilt="0" title="缙湖上空" id="Point10" description="" skinid="ht_node" pan="142.364" url="{node14}" target="$fwd"/>
+      <hotspot distance="185.178" tilt="-50.4" title="植物园" id="Point11" description="" skinid="ht_node" pan="132.935" url="{node2}" target="$fwd"/>
+      <hotspot distance="478.939" tilt="0" title="缙湖上空" id="Point12" description="" skinid="ht_node" pan="117.967" url="{node15}" target="$fwd"/>
+      <hotspot distance="203.776" tilt="-46.34" title="综合楼" id="Point13" description="" skinid="ht_node" pan="97.5333" url="{node10}" target="$fwd"/>
+      <hotspot distance="662.724" tilt="-19.16" title="第二食堂" id="Point14" description="" skinid="ht_node" pan="89.4333" url="{node5}" target="$fwd"/>
+      <hotspot distance="395.407" tilt="0" title="第一食堂上空" id="Point15" description="" skinid="ht_node" pan="65.0493" url="{node24}" target="$fwd"/>
+      <hotspot distance="50.9562" tilt="0" title="第一教学楼上空（低）" id="Point16" description="" skinid="ht_node" pan="53.7458" url="{node27}" target="$fwd"/>
+      <hotspot distance="180.501" tilt="0.08" title="" id="Point17" description="" skinid="ht_node" pan="-258.54" url="{node30}" target=""/>
+      <hotspot distance="234.616" tilt="0" title="风雨操场上空" id="Point18" description="" skinid="ht_node" pan="-31.8631" url="{node16}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-27.6975" projection="4" pan="-172.547"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="413.23" source="" comment="" nodeid="node19" title="梅园篮球场上空" tags="PANORAMA" info="" author="" longitude="106.298071" datetime="2024-05-21 15:47" description="" customnodeid="" latitude="29.599589" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="214.68" tilt="-24.18" title="北门" id="Point01" description="" skinid="ht_node" pan="32.2718" url="{node8}" target="$fwd"/>
+      <hotspot distance="504.92" tilt="0" title="校外俯瞰" id="Point02" description="" skinid="ht_node" pan="-59.0094" url="{node25}" target="$fwd"/>
+      <hotspot distance="366.684" tilt="0" title="体育馆上空" id="Point03" description="" skinid="ht_node" pan="-78.312" url="{node17}" target="$fwd"/>
+      <hotspot distance="164.039" tilt="0" title="风雨操场上空" id="Point04" description="" skinid="ht_node" pan="-84.554" url="{node16}" target="$fwd"/>
+      <hotspot distance="585.055" tilt="-9.36" title="东门" id="Point05" description="" skinid="ht_node" pan="-115.828" url="{node4}" target="$fwd"/>
+      <hotspot distance="368.438" tilt="0" title="第一实验楼上空（低）" id="Point06" description="" skinid="ht_node" pan="-139.14" url="{node13}" target="$fwd"/>
+      <hotspot distance="362.643" tilt="0" title="第一实验楼上空（高）" id="Point07" description="" skinid="ht_node" pan="-147.776" url="{node26}" target="$fwd"/>
+      <hotspot distance="187.882" tilt="0" title="第一教学楼上空（高）" id="Point08" description="" skinid="ht_node" pan="-167.88" url="{node18}" target="$fwd"/>
+      <hotspot distance="153.569" tilt="0" title="第一教学楼上空（低）" id="Point09" description="" skinid="ht_node" pan="179.387" url="{node27}" target="$fwd"/>
+      <hotspot distance="307.628" tilt="-17.04" title="植物园" id="Point10" description="" skinid="ht_node" pan="167.333" url="{node2}" target="$fwd"/>
+      <hotspot distance="258.113" tilt="-19.63" title="综合楼" id="Point11" description="" skinid="ht_node" pan="147.595" url="{node10}" target="$fwd"/>
+      <hotspot distance="115.935" tilt="0" title="中心" id="Point12" description="" skinid="ht_node" pan="130.852" url="{node22}" target="$fwd"/>
+      <hotspot distance="633.903" tilt="-9.53" title="第二食堂" id="Point13" description="" skinid="ht_node" pan="108.362" url="{node5}" target="$fwd"/>
+      <hotspot distance="319.504" tilt="0" title="第一食堂上空" id="Point14" description="" skinid="ht_node" pan="93.0315" url="{node24}" target="$fwd"/>
+      <hotspot distance="445.691" tilt="0" title="快递站上空" id="Point15" description="" skinid="ht_node" pan="74.916" url="{node23}" target="$fwd"/>
+      <hotspot distance="473.588" tilt="0" title="缙湖上空" id="Point16" description="" skinid="ht_node" pan="159.991" url="{node14}" target="$fwd"/>
+      <hotspot distance="237.983" tilt="0" title="综合楼上空秋季" id="Point17" description="" skinid="ht_node" pan="143.705" url="{node30}" target="$fwd"/>
+      <hotspot distance="560.203" tilt="0" title="缙湖上空" id="Point18" description="" skinid="ht_node" pan="136.79" url="{node15}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="451.40" source="" comment="" nodeid="node28" title="风雨操场上空傍晚（低）" tags="PANORAMA" info="" author="" longitude="106.299726" datetime="2024-04-02 18:01" description="" customnodeid="" latitude="29.599846" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="596.782" tilt="0" title="快递站上空" id="Point01" description="" skinid="ht_node" pan="81.5772" url="{node23}" target="$fwd"/>
+      <hotspot distance="294.757" tilt="-6.96" title="北门" id="Point02" description="" skinid="ht_node" pan="57.5592" url="{node8}" target="$fwd"/>
+      <hotspot distance="551.552" tilt="-5.64" title="第一食堂" id="Point03" description="" skinid="ht_node" pan="91.4027" url="{node7}" target="$fwd"/>
+      <hotspot distance="162.543" tilt="0" title="梅园篮球场上空" id="Point04" description="" skinid="ht_node" pan="100.126" url="{node19}" target="$fwd"/>
+      <hotspot distance="268.811" tilt="0" title="中心" id="Point05" description="" skinid="ht_node" pan="112.856" url="{node22}" target="$fwd"/>
+      <hotspot distance="396.029" tilt="-5.91" title="综合楼" id="Point06" description="" skinid="ht_node" pan="123.582" url="{node10}" target="$fwd"/>
+      <hotspot distance="243.53" tilt="0" title="第一教学楼上空（低）" id="Point07" description="" skinid="ht_node" pan="138.409" url="{node27}" target="$fwd"/>
+      <hotspot distance="244.121" tilt="0" title="第一教学楼上空（高）" id="Point08" description="" skinid="ht_node" pan="150.404" url="{node18}" target="$fwd"/>
+      <hotspot distance="337.019" tilt="0" title="第一实验楼上空（高）" id="Point09" description="" skinid="ht_node" pan="-174.32" url="{node26}" target="$fwd"/>
+      <hotspot distance="13.4187" tilt="0" title="风雨操场上空" id="Point10" description="" skinid="ht_node" pan="-165.82" url="{node16}" target="$fwd"/>
+      <hotspot distance="360.302" tilt="-5.7" title="东门广场" id="Point11" description="" skinid="ht_node" pan="-157.948" url="{node3}" target="$fwd"/>
+      <hotspot distance="8.83361" tilt="0" title="风雨操场上空（低）" id="Point12" description="" skinid="ht_node" pan="-129.005" url="{node20}" target="$fwd"/>
+      <hotspot distance="477.402" tilt="-5.33" title="东门" id="Point13" description="" skinid="ht_node" pan="-138.331" url="{node4}" target="$fwd"/>
+      <hotspot distance="27.0134" tilt="0" title="风雨操场上空（高）" id="Point14" description="" skinid="ht_node" pan="-86.9325" url="{node21}" target="$fwd"/>
+      <hotspot distance="204.25" tilt="0" title="体育馆上空" id="Point15" description="" skinid="ht_node" pan="-77.07" url="{node17}" target="$fwd"/>
+      <hotspot distance="357.75" tilt="0" title="校外俯瞰" id="Point16" description="" skinid="ht_node" pan="-49.6977" url="{node25}" target="$fwd"/>
+      <hotspot tilt="0" title="风雨操场上空傍晚（高）" id="Point17" description="" skinid="ht_node" pan="180" url="{node29}" target="$fwd"/>
+      <hotspot distance="372.963" tilt="0" title="综合楼上空秋季" id="Point18" description="" skinid="ht_node" pan="126.221" url="{node30}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelbias="0.400" levelingpitch="0" height="2384" levelbiashidpi="1.000" levelingroll="0" width="2384" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2384" width="2384" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="589.14" source="" comment="" nodeid="node29" title="风雨操场上空傍晚（高）" tags="PANORAMA" info="" author="" longitude="106.299726" datetime="2024-04-02 17:59" description="" customnodeid="" latitude="29.599846" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="204.25" tilt="0" title="体育馆上空" id="Point01" description="" skinid="ht_node" pan="-77.07" url="{node17}" target="$fwd"/>
+      <hotspot distance="27.0134" tilt="0" title="风雨操场上空（高）" id="Point02" description="" skinid="ht_node" pan="-86.9325" url="{node21}" target="$fwd"/>
+      <hotspot distance="357.75" tilt="0" title="校外俯瞰" id="Point03" description="" skinid="ht_node" pan="-49.6977" url="{node25}" target="$fwd"/>
+      <hotspot distance="8.83361" tilt="0" title="风雨操场上空（低）" id="Point04" description="" skinid="ht_node" pan="-129.005" url="{node20}" target="$fwd"/>
+      <hotspot distance="477.402" tilt="-22.35" title="东门" id="Point05" description="" skinid="ht_node" pan="-128.001" url="{node4}" target="$fwd"/>
+      <hotspot distance="360.302" tilt="-29.08" title="东门广场" id="Point06" description="" skinid="ht_node" pan="-147.228" url="{node3}" target="$fwd"/>
+      <hotspot distance="13.4187" tilt="0" title="风雨操场上空" id="Point07" description="" skinid="ht_node" pan="-165.82" url="{node16}" target="$fwd"/>
+      <hotspot distance="337.019" tilt="0" title="第一实验楼上空（高）" id="Point08" description="" skinid="ht_node" pan="-174.32" url="{node26}" target="$fwd"/>
+      <hotspot tilt="0" title="风雨操场上空傍晚（低）" id="Point09" description="" skinid="ht_node" pan="180" url="{node28}" target="$fwd"/>
+      <hotspot distance="244.121" tilt="0" title="第一教学楼上空（高）" id="Point10" description="" skinid="ht_node" pan="150.404" url="{node18}" target="$fwd"/>
+      <hotspot distance="243.53" tilt="0" title="第一教学楼上空（低）" id="Point11" description="" skinid="ht_node" pan="138.409" url="{node27}" target="$fwd"/>
+      <hotspot distance="396.029" tilt="-24.58" title="综合楼" id="Point12" description="" skinid="ht_node" pan="134.812" url="{node10}" target="$fwd"/>
+      <hotspot distance="268.811" tilt="0" title="中心" id="Point13" description="" skinid="ht_node" pan="112.856" url="{node22}" target="$fwd"/>
+      <hotspot distance="162.543" tilt="0" title="梅园篮球场上空" id="Point14" description="" skinid="ht_node" pan="100.126" url="{node19}" target="$fwd"/>
+      <hotspot distance="551.552" tilt="-17.98" title="第一食堂" id="Point15" description="" skinid="ht_node" pan="104.263" url="{node7}" target="$fwd"/>
+      <hotspot distance="596.782" tilt="0" title="快递站上空" id="Point16" description="" skinid="ht_node" pan="81.5772" url="{node23}" target="$fwd"/>
+      <hotspot distance="294.757" tilt="-32.23" title="北门" id="Point17" description="" skinid="ht_node" pan="63.9592" url="{node8}" target="$fwd"/>
+      <hotspot distance="372.963" tilt="0" title="综合楼上空秋季" id="Point18" description="" skinid="ht_node" pan="126.221" url="{node30}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbias="0.400" levelingpitch="0" height="2386" levelbiashidpi="1.000" levelingroll="0" width="2386" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2386" width="2386" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-21.7014" projection="4" pan="92.0977"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="339.94" source="" comment="" nodeid="node20" title="风雨操场上空（低）" tags="PANORAMA" info="" author="" longitude="106.299797" datetime="2024-05-21 15:42" description="" customnodeid="" latitude="29.599796" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="356.217" tilt="0" title="校外俯瞰" id="Point01" description="" skinid="ht_node" pan="-48.3014" url="{node25}" target="$fwd"/>
+      <hotspot distance="21.2954" tilt="0" title="风雨操场上空（高）" id="Point02" description="" skinid="ht_node" pan="-70.7944" url="{node21}" target="$fwd"/>
+      <hotspot distance="468.624" tilt="0" title="东门" id="Point03" description="" skinid="ht_node" pan="-135.471" url="{node4}" target="$fwd"/>
+      <hotspot distance="352.722" tilt="0" title="东门广场" id="Point04" description="" skinid="ht_node" pan="-160.267" url="{node3}" target="$fwd"/>
+      <hotspot distance="310.653" tilt="0" title="第一实验楼上空（低）" id="Point05" description="" skinid="ht_node" pan="-166.189" url="{node13}" target="$fwd"/>
+      <hotspot distance="330.866" tilt="0" title="第一实验楼上空（高）" id="Point06" description="" skinid="ht_node" pan="-175.407" url="{node26}" target="$fwd"/>
+      <hotspot distance="10.587" tilt="0" title="风雨操场" id="Point07" description="" skinid="ht_node" pan="170.443" url="{node9}" target="$fwd"/>
+      <hotspot distance="8.26441" tilt="0" title="风雨操场上空" id="Point08" description="" skinid="ht_node" pan="154.351" url="{node16}" target="$fwd"/>
+      <hotspot distance="242.833" tilt="0" title="第一教学楼上空（高）" id="Point09" description="" skinid="ht_node" pan="148.347" url="{node18}" target="$fwd"/>
+      <hotspot distance="244.088" tilt="0" title="第一教学楼上空（低）" id="Point10" description="" skinid="ht_node" pan="136.337" url="{node27}" target="$fwd"/>
+      <hotspot distance="398.528" tilt="0" title="综合楼" id="Point11" description="" skinid="ht_node" pan="123.95" url="{node10}" target="$fwd"/>
+      <hotspot distance="273.088" tilt="0" title="中心" id="Point12" description="" skinid="ht_node" pan="111.221" url="{node22}" target="$fwd"/>
+      <hotspot distance="168.456" tilt="0" title="梅园篮球场上空" id="Point13" description="" skinid="ht_node" pan="97.8529" url="{node19}" target="$fwd"/>
+      <hotspot distance="604.404" tilt="0" title="快递站上空" id="Point14" description="" skinid="ht_node" pan="81.1511" url="{node23}" target="$fwd"/>
+      <hotspot distance="303.573" tilt="0" title="北门" id="Point15" description="" skinid="ht_node" pan="54.5624" url="{node8}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-33.0488" projection="4" pan="157.913"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="472.21" source="" comment="" nodeid="node21" title="风雨操场上空（高）" tags="PANORAMA" info="" author="" longitude="106.300005" datetime="2024-05-21 15:39" description="" customnodeid="" latitude="29.599859" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="336.64" tilt="0" title="校外俯瞰" id="Point01" description="" skinid="ht_node" pan="-46.9148" url="{node25}" target="$fwd"/>
+      <hotspot distance="177.696" tilt="0" title="体育馆上空" id="Point02" description="" skinid="ht_node" pan="-75.5781" url="{node17}" target="$fwd"/>
+      <hotspot distance="459.918" tilt="-19.47" title="东门" id="Point03" description="" skinid="ht_node" pan="-107" url="{node4}" target="$fwd"/>
+      <hotspot distance="353.168" tilt="-26.65" title="东门广场" id="Point04" description="" skinid="ht_node" pan="-131.424" url="{node3}" target="$fwd"/>
+      <hotspot distance="313.373" tilt="0" title="第一实验楼上空（低）" id="Point05" description="" skinid="ht_node" pan="-170.069" url="{node13}" target="$fwd"/>
+      <hotspot distance="336.87" tilt="0" title="第一实验楼上空（高）" id="Point06" description="" skinid="ht_node" pan="-178.915" url="{node26}" target="$fwd"/>
+      <hotspot distance="457.525" tilt="-21.78" title="图书馆" id="Point07" description="" skinid="ht_node" pan="182.455" url="{node1}" target="$fwd"/>
+      <hotspot distance="259.698" tilt="0" title="第一教学楼上空（高）" id="Point08" description="" skinid="ht_node" pan="145.38" url="{node18}" target="$fwd"/>
+      <hotspot distance="263.219" tilt="0" title="第一教学楼上空（低）" id="Point09" description="" skinid="ht_node" pan="134.222" url="{node27}" target="$fwd"/>
+      <hotspot distance="27.974" tilt="-84.18" title="风雨操场" id="Point10" description="" skinid="ht_node" pan="116.611" url="{node9}" target="$fwd"/>
+      <hotspot distance="27.7498" tilt="0" title="风雨操场上空" id="Point11" description="" skinid="ht_node" pan="121.394" url="{node16}" target="$fwd"/>
+      <hotspot distance="21.2954" tilt="0" title="风雨操场上空（低）" id="Point12" description="" skinid="ht_node" pan="109.205" url="{node20}" target="$fwd"/>
+      <hotspot distance="189.381" tilt="0" title="梅园篮球场上空" id="Point13" description="" skinid="ht_node" pan="99.1211" url="{node19}" target="$fwd"/>
+      <hotspot distance="578.561" tilt="-17.11" title="第一食堂" id="Point14" description="" skinid="ht_node" pan="122.412" url="{node7}" target="$fwd"/>
+      <hotspot distance="623.277" tilt="6.83" title="快递站上空" id="Point15" description="" skinid="ht_node" pan="117.962" url="{node23}" target="$fwd"/>
+      <hotspot distance="316.373" tilt="-26.72" title="北门" id="Point16" description="" skinid="ht_node" pan="86.2392" url="{node8}" target="$fwd"/>
+      <hotspot distance="719.479" tilt="0" title="缙湖上空" id="Point17" description="" skinid="ht_node" pan="127.533" url="{node15}" target="$fwd"/>
+      <hotspot distance="27.0134" tilt="6.82" title="风雨操场上空傍晚（高）" id="Point18" description="" skinid="ht_node" pan="113.777" url="{node29}" target="$fwd"/>
+      <hotspot distance="27.0134" tilt="8.39" title="风雨操场上空傍晚（低）" id="Point19" description="" skinid="ht_node" pan="109.077" url="{node28}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-19.5372" projection="4" pan="-137.352"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="426.86" source="" comment="" nodeid="node23" title="快递站上空" tags="PANORAMA" info="" author="" longitude="106.293620" datetime="2024-05-21 15:35" description="" customnodeid="" latitude="29.600632" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="76.3273" tilt="-56.01" title="竹园四栋" id="Point01" description="" skinid="ht_node" pan="75.3049" url="{node6}" target="$fwd"/>
+      <hotspot distance="359.595" tilt="-15.58" title="北门" id="Point02" description="" skinid="ht_node" pan="-81.315" url="{node8}" target="$fwd"/>
+      <hotspot distance="790.517" tilt="0" title="体育馆上空" id="Point03" description="" skinid="ht_node" pan="-93.0216" url="{node17}" target="$fwd"/>
+      <hotspot distance="602.067" tilt="0" title="风雨操场上空" id="Point04" description="" skinid="ht_node" pan="-99.5988" url="{node16}" target="$fwd"/>
+      <hotspot distance="445.691" tilt="0" title="梅园篮球场上空" id="Point05" description="" skinid="ht_node" pan="-105.082" url="{node19}" target="$fwd"/>
+      <hotspot distance="392.681" tilt="0" title="中心" id="Point06" description="" skinid="ht_node" pan="-119.239" url="{node22}" target="$fwd"/>
+      <hotspot distance="589.095" tilt="0" title="植物园上空" id="Point07" description="" skinid="ht_node" pan="-134.737" url="{node11}" target="$fwd"/>
+      <hotspot distance="173.322" tilt="0" title="第一食堂上空" id="Point08" description="" skinid="ht_node" pan="-140.054" url="{node24}" target="$fwd"/>
+      <hotspot distance="621.838" tilt="0" title="缙湖上空" id="Point09" description="" skinid="ht_node" pan="-154.439" url="{node14}" target="$fwd"/>
+      <hotspot distance="133.468" tilt="-39.89" title="第一食堂" id="Point10" description="" skinid="ht_node" pan="-165.422" url="{node7}" target="$fwd"/>
+      <hotspot distance="526.368" tilt="0" title="缙湖上空" id="Point11" description="" skinid="ht_node" pan="-174.899" url="{node15}" target="$fwd"/>
+      <hotspot distance="540.042" tilt="0" title="荷塘上空" id="Point12" description="" skinid="ht_node" pan="173.245" url="{node12}" target="$fwd"/>
+      <hotspot distance="309.356" tilt="-20.17" title="第二食堂" id="Point13" description="" skinid="ht_node" pan="135.996" url="{node5}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbias="0.400" levelingpitch="0" height="2384" levelbiashidpi="1.000" levelingroll="0" width="2384" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2384" width="2384" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-36.9959" projection="4" pan="138.548"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="511.32" source="" comment="" nodeid="node17" title="体育馆上空" tags="PANORAMA" info="" author="" longitude="106.301785" datetime="2024-05-21 15:55" description="" customnodeid="" latitude="29.600257" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="199.812" tilt="0" title="校外俯瞰" id="Point01" description="" skinid="ht_node" pan="-21.6656" url="{node25}" target="$fwd"/>
+      <hotspot distance="408.779" tilt="-26.17" title="东门" id="Point02" description="" skinid="ht_node" pan="-149.475" url="{node4}" target="$fwd"/>
+      <hotspot distance="390.183" tilt="-27.6" title="东门广场" id="Point03" description="" skinid="ht_node" pan="179.159" url="{node3}" target="$fwd"/>
+      <hotspot distance="372.153" tilt="0" title="第一实验楼上空（低）" id="Point04" description="" skinid="ht_node" pan="161.505" url="{node13}" target="$fwd"/>
+      <hotspot distance="415.539" tilt="0" title="第一实验楼上空（高）" id="Point05" description="" skinid="ht_node" pan="156.496" url="{node26}" target="$fwd"/>
+      <hotspot distance="526.038" tilt="0" title="植物园上空" id="Point06" description="" skinid="ht_node" pan="135.151" url="{node11}" target="$fwd"/>
+      <hotspot distance="410.753" tilt="0" title="第一教学楼上空（高）" id="Point07" description="" skinid="ht_node" pan="128.905" url="{node18}" target="$fwd"/>
+      <hotspot distance="426.656" tilt="0" title="第一教学楼上空（低）" id="Point08" description="" skinid="ht_node" pan="122.276" url="{node27}" target="$fwd"/>
+      <hotspot distance="177.696" tilt="0" title="风雨操场上空（高）" id="Point09" description="" skinid="ht_node" pan="104.421" url="{node21}" target="$fwd"/>
+      <hotspot distance="684.241" tilt="0" title="第一食堂上空" id="Point10" description="" skinid="ht_node" pan="97.6561" url="{node24}" target="$fwd"/>
+      <hotspot distance="790.517" tilt="0" title="快递站上空" id="Point11" description="" skinid="ht_node" pan="86.9743" url="{node23}" target="$fwd"/>
+      <hotspot distance="456.903" tilt="-23.61" title="北门" id="Point12" description="" skinid="ht_node" pan="84.8236" url="{node8}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbias="0.400" levelingpitch="0" height="2385" levelbiashidpi="1.000" levelingroll="0" width="2385" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2385" width="2385" predecode="0" preload="0"/>
+      <level height="1192" width="1192" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="-21.6965" projection="4" pan="123.97"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="481.56" source="" comment="" nodeid="node25" title="校外俯瞰" tags="PANORAMA" info="" author="" longitude="106.302548" datetime="2024-05-21 15:28" description="" customnodeid="" latitude="29.601927" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="574.466" tilt="-17.18" title="东门" id="Point01" description="" skinid="ht_node" pan="-181.729" url="{node4}" target="$fwd"/>
+      <hotspot distance="587.621" tilt="-17.21" title="东门广场" id="Point02" description="" skinid="ht_node" pan="158.894" url="{node3}" target="$fwd"/>
+      <hotspot distance="199.812" tilt="0" title="体育馆上空" id="Point03" description="" skinid="ht_node" pan="158.334" url="{node17}" target="$fwd"/>
+      <hotspot distance="784.112" tilt="-13.64" title="图书馆" id="Point04" description="" skinid="ht_node" pan="136.007" url="{node1}" target="$fwd"/>
+      <hotspot distance="592.966" tilt="0" title="第一教学楼上空（高）" id="Point05" description="" skinid="ht_node" pan="138.435" url="{node18}" target="$fwd"/>
+      <hotspot distance="336.64" tilt="0" title="风雨操场上空（高）" id="Point06" description="" skinid="ht_node" pan="133.084" url="{node21}" target="$fwd"/>
+      <hotspot distance="753.026" tilt="-12.07" title="综合楼" id="Point07" description="" skinid="ht_node" pan="115.115" url="{node10}" target="$fwd"/>
+      <hotspot distance="504.92" tilt="0" title="梅园篮球场上空" id="Point08" description="" skinid="ht_node" pan="120.988" url="{node19}" target="$fwd"/>
+      <hotspot distance="801.259" tilt="0" title="第一食堂上空" id="Point09" description="" skinid="ht_node" pan="110.213" url="{node24}" target="$fwd"/>
+      <hotspot distance="516.911" tilt="-18.06" title="北门" id="Point10" description="" skinid="ht_node" pan="90.0695" url="{node8}" target="$fwd"/>
+      <hotspot distance="1149.61" tilt="0" title="荷塘上空" id="Point11" description="" skinid="ht_node" pan="126.279" url="{node12}" target="$fwd"/>
+      <hotspot distance="875.107" tilt="0" title="快递站上空" id="Point12" description="" skinid="ht_node" pan="99.4688" url="{node23}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelbias="0.400" levelingpitch="0" height="2387" levelbiashidpi="1.000" levelingroll="0" width="2387" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2387" width="2387" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="610.50" source="" comment="" nodeid="node31" title="图书馆上空" tags="PANORAMA" info="" author="" longitude="106.298567" datetime="2024-07-20 17:11" description="" customnodeid="" latitude="29.595633" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="103.904" tilt="-60.12" title="" id="图书馆" description="" skinid="ht_node" pan="-357.68" url="{node1}" target=""/>
+      <hotspot distance="225.076" tilt="-41.91" title="" id="植物园" description="" skinid="ht_node" pan="-326.61" url="{node2}" target=""/>
+      <hotspot distance="51.2069" tilt="0" title="图书馆上空傍晚" id="Point01" description="" skinid="ht_node" pan="113.414" url="{node35}" target="$fwd"/>
+      <hotspot distance="210.068" tilt="0" title="缙湖上空" id="Point02" description="" skinid="ht_node" pan="91.3947" url="{node14}" target="$fwd"/>
+      <hotspot distance="432.67" tilt="0" title="缙湖上空" id="Point03" description="" skinid="ht_node" pan="85.8133" url="{node15}" target="$fwd"/>
+      <hotspot distance="200.551" tilt="0" title="植物园上空傍晚" id="Point04" description="" skinid="ht_node" pan="65.6021" url="{node37}" target="$fwd"/>
+      <hotspot distance="311.766" tilt="0" title="综合楼上空秋季" id="Point05" description="" skinid="ht_node" pan="37.277" url="{node30}" target="$fwd"/>
+      <hotspot distance="153.376" tilt="0" title="植物园上空" id="Point06" description="" skinid="ht_node" pan="22.9675" url="{node11}" target="$fwd"/>
+      <hotspot distance="600.974" tilt="0" title="体育馆上空" id="Point07" description="" skinid="ht_node" pan="-31.1783" url="{node17}" target="$fwd"/>
+      <hotspot distance="197.134" tilt="0" title="第一实验楼上空（高）" id="Point08" description="" skinid="ht_node" pan="-47.5318" url="{node26}" target="$fwd"/>
+      <hotspot distance="404.84" tilt="0" title="东门上空" id="Point09" description="" skinid="ht_node" pan="-70.3375" url="{node33}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelbias="0.400" levelingpitch="0" height="2387" levelbiashidpi="1.000" levelingroll="0" width="2387" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2387" width="2387" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="517.95" source="" comment="" nodeid="node32" title="图书馆左上" tags="PANORAMA" info="" author="" longitude="106.298564" datetime="2024-07-20 17:07" description="" customnodeid="" latitude="29.595658" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="598.748" tilt="0" title="体育馆上空" id="Point01" description="" skinid="ht_node" pan="-31.3398" url="{node17}" target="$fwd"/>
+      <hotspot distance="253.546" tilt="0" title="第一教学楼上空（高）" id="Point02" description="" skinid="ht_node" pan="1.85747" url="{node18}" target="$fwd"/>
+      <hotspot distance="287.803" tilt="0" title="第一教学楼上空（低）" id="Point03" description="" skinid="ht_node" pan="9.86519" url="{node27}" target="$fwd"/>
+      <hotspot distance="150.706" tilt="0" title="植物园上空" id="Point04" description="" skinid="ht_node" pan="23.2784" url="{node11}" target="$fwd"/>
+      <hotspot distance="309.382" tilt="0" title="综合楼上空秋季" id="Point05" description="" skinid="ht_node" pan="37.546" url="{node30}" target="$fwd"/>
+      <hotspot distance="199.153" tilt="0" title="植物园上空傍晚" id="Point06" description="" skinid="ht_node" pan="66.296" url="{node37}" target="$fwd"/>
+      <hotspot distance="432.187" tilt="0" title="缙湖上空" id="Point07" description="" skinid="ht_node" pan="86.1781" url="{node15}" target="$fwd"/>
+      <hotspot distance="209.864" tilt="0" title="缙湖上空" id="Point08" description="" skinid="ht_node" pan="92.1554" url="{node14}" target="$fwd"/>
+      <hotspot distance="52.1137" tilt="0" title="图书馆上空傍晚" id="Point09" description="" skinid="ht_node" pan="116.347" url="{node35}" target="$fwd"/>
+      <hotspot distance="2.79497" tilt="0" title="图书馆上空" id="Point10" description="" skinid="ht_node" pan="-174.043" url="{node31}" target="$fwd"/>
+      <hotspot distance="404.187" tilt="0" title="东门上空" id="Point11" description="" skinid="ht_node" pan="-70.7224" url="{node33}" target="$fwd"/>
+      <hotspot distance="195.484" tilt="0" title="第一实验楼上空（高）" id="Point12" description="" skinid="ht_node" pan="-48.1902" url="{node26}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelbias="0.400" levelingpitch="0" height="2386" levelbiashidpi="1.000" levelingroll="0" width="2386" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2386" width="2386" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="478.45" source="" comment="" nodeid="node33" title="东门上空" tags="PANORAMA" info="" author="" longitude="106.302510" datetime="2024-06-12 14:55" description="" customnodeid="" latitude="29.596858" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="384.397" tilt="0" title="体育馆上空" id="Point01" description="" skinid="ht_node" pan="10.5068" url="{node17}" target="$fwd"/>
+      <hotspot distance="525.754" tilt="0" title="梅园篮球场上空" id="Point02" description="" skinid="ht_node" pan="54.7173" url="{node19}" target="$fwd"/>
+      <hotspot distance="564.868" tilt="0" title="中心" id="Point03" description="" skinid="ht_node" pan="66.211" url="{node22}" target="$fwd"/>
+      <hotspot distance="407.79" tilt="0" title="第一教学楼上空（高）" id="Point04" description="" skinid="ht_node" pan="72.8883" url="{node18}" target="$fwd"/>
+      <hotspot distance="189.808" tilt="0" title="第一实验楼上空（低）" id="Point05" description="" skinid="ht_node" pan="82.4252" url="{node13}" target="$fwd"/>
+      <hotspot distance="404.187" tilt="0" title="图书馆左上" id="Point06" description="" skinid="ht_node" pan="109.276" url="{node32}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelbias="0.400" levelingpitch="0" height="2387" levelbiashidpi="1.000" levelingroll="0" width="2387" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2387" width="2387" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="477.10" source="" comment="" nodeid="node34" title="图书馆前方傍晚" tags="PANORAMA" info="" author="" longitude="106.298081" datetime="2024-06-12 19:39" description="" customnodeid="" latitude="29.595450" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="279.206" tilt="0" title="第一教学楼上空（高）" id="Point01" description="" skinid="ht_node" pan="-7.92184" url="{node18}" target="$fwd"/>
+      <hotspot distance="162.077" tilt="0" title="植物园上空" id="Point02" description="" skinid="ht_node" pan="4.55066" url="{node11}" target="$fwd"/>
+      <hotspot distance="394.493" tilt="0" title="中心" id="Point03" description="" skinid="ht_node" pan="12.9878" url="{node22}" target="$fwd"/>
+      <hotspot distance="170.439" tilt="0" title="植物园上空傍晚" id="Point04" description="" skinid="ht_node" pan="52.7399" url="{node37}" target="$fwd"/>
+      <hotspot distance="163.726" tilt="0" title="缙湖上空" id="Point05" description="" skinid="ht_node" pan="84.6608" url="{node14}" target="$fwd"/>
+      <hotspot distance="246.104" tilt="0" title="第一实验楼上空（高）" id="Point06" description="" skinid="ht_node" pan="-51.4264" url="{node26}" target="$fwd"/>
+      <hotspot distance="643.395" tilt="0" title="体育馆上空" id="Point07" description="" skinid="ht_node" pan="-33.8211" url="{node17}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelbias="0.400" levelingpitch="0" height="2387" levelbiashidpi="1.000" levelingroll="0" width="2387" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2387" width="2387" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="576.65" source="" comment="" nodeid="node35" title="图书馆上空傍晚" tags="PANORAMA" info="" author="" longitude="106.298081" datetime="2024-06-12 19:37" description="" customnodeid="" latitude="29.595450" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="705.199" tilt="0" title="第二食堂" id="Point01" description="" skinid="ht_node" pan="61.8653" url="{node5}" target="$fwd"/>
+      <hotspot distance="170.439" tilt="0" title="植物园上空傍晚" id="Point02" description="" skinid="ht_node" pan="52.7399" url="{node37}" target="$fwd"/>
+      <hotspot distance="595.399" tilt="0" title="第一食堂" id="Point03" description="" skinid="ht_node" pan="41.0573" url="{node7}" target="$fwd"/>
+      <hotspot distance="210.286" tilt="0" title="植物园" id="Point04" description="" skinid="ht_node" pan="33.6235" url="{node2}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelbias="0.400" levelingpitch="0" height="2387" levelbiashidpi="1.000" levelingroll="0" width="2387" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2387" width="2387" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="543.46" source="" comment="" nodeid="node36" title="第一实验楼上空傍晚" tags="PANORAMA" info="" author="" longitude="106.300314" datetime="2024-06-12 19:34" description="" customnodeid="" latitude="29.596814" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="408.408" tilt="0" title="体育馆上空" id="Point01" description="" skinid="ht_node" pan="-20.3792" url="{node17}" target="$fwd"/>
+      <hotspot distance="377.152" tilt="0" title="梅园篮球场上空" id="Point02" description="" skinid="ht_node" pan="35.0996" url="{node19}" target="$fwd"/>
+      <hotspot distance="212.491" tilt="0" title="图书馆左上" id="Point03" description="" skinid="ht_node" pan="127.223" url="{node32}" target="$fwd"/>
+      <hotspot distance="402.731" tilt="0" title="缙湖上空" id="Point04" description="" skinid="ht_node" pan="109.801" url="{node14}" target="$fwd"/>
+      <hotspot distance="354.88" tilt="0" title="植物园上空傍晚" id="Point05" description="" skinid="ht_node" pan="97.851" url="{node37}" target="$fwd"/>
+      <hotspot distance="376.309" tilt="0" title="综合楼上空秋季" id="Point06" description="" skinid="ht_node" pan="71.924" url="{node30}" target="$fwd"/>
+      <hotspot distance="610.152" tilt="0" title="第一食堂上空" id="Point07" description="" skinid="ht_node" pan="61.4425" url="{node24}" target="$fwd"/>
+      <hotspot distance="216.957" tilt="0" title="第一教学楼上空（高）" id="Point08" description="" skinid="ht_node" pan="54.8607" url="{node18}" target="$fwd"/>
+      <hotspot distance="38.4572" tilt="0" title="第一实验楼上空（低）" id="Point09" description="" skinid="ht_node" pan="-38.9418" url="{node13}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelbias="0.400" levelingpitch="0" height="2386" levelbiashidpi="1.000" levelingroll="0" width="2386" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510">
+      <level height="2386" width="2386" predecode="0" preload="0"/>
+      <level height="1193" width="1193" predecode="0" preload="0"/>
+      <level height="596" width="596" predecode="0" preload="0"/>
+      <level height="298" width="298" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata altitude="525.85" source="" comment="" nodeid="node37" title="植物园上空傍晚" tags="PANORAMA" info="" author="" longitude="106.296678" datetime="2024-06-12 19:32" description="" customnodeid="" latitude="29.596378" copyright="" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" borderradius="1" height="20" border="1" borderalpha="1" width="180" textcolor="0x000000" bordercolor="0x000000" textalpha="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot distance="170.439" tilt="0" title="图书馆前方傍晚" id="Point01" description="" skinid="ht_node" pan="-127.259" url="{node34}" target="$fwd"/>
+      <hotspot distance="199.153" tilt="0" title="图书馆左上" id="Point02" description="" skinid="ht_node" pan="-113.703" url="{node32}" target="$fwd"/>
+      <hotspot distance="104.862" tilt="0" title="图书馆" id="Point03" description="" skinid="ht_node" pan="-98.3468" url="{node1}" target="$fwd"/>
+      <hotspot distance="331.886" tilt="0" title="第一实验楼上空（高）" id="Point04" description="" skinid="ht_node" pan="-81.2889" url="{node26}" target="$fwd"/>
+      <hotspot distance="135.962" tilt="0" title="植物园上空" id="Point05" description="" skinid="ht_node" pan="-64.5725" url="{node11}" target="$fwd"/>
+      <hotspot distance="245.709" tilt="0" title="第一教学楼上空（高）" id="Point06" description="" skinid="ht_node" pan="-45.128" url="{node18}" target="$fwd"/>
+      <hotspot distance="475.925" tilt="0" title="风雨操场" id="Point07" description="" skinid="ht_node" pan="-39.0449" url="{node9}" target="$fwd"/>
+      <hotspot distance="243.118" tilt="0" title="第一教学楼上空（低）" id="Point08" description="" skinid="ht_node" pan="-33.1764" url="{node27}" target="$fwd"/>
+      <hotspot distance="381.604" tilt="0" title="梅园篮球场上空" id="Point09" description="" skinid="ht_node" pan="-20.6668" url="{node19}" target="$fwd"/>
+      <hotspot distance="386.904" tilt="0" title="第一食堂上空" id="Point10" description="" skinid="ht_node" pan="28.4599" url="{node24}" target="$fwd"/>
+      <hotspot distance="165.351" tilt="0" title="综合楼上空秋季" id="Point11" description="" skinid="ht_node" pan="2.14465" url="{node30}" target="$fwd"/>
+      <hotspot distance="254.097" tilt="0" title="缙湖上空" id="Point12" description="" skinid="ht_node" pan="101.638" url="{node15}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedkeyboard="0" invertwheel="0" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" comment="" nodeid="master" title="" tags="" info="" author="" longitude="" datetime="" description="" customnodeid="" latitude="" copyright="" heading="0"/>
+  </masternode>
+</tour>
